@@ -6,28 +6,34 @@ This Repository has resources needed for a first time contributor
 
 ## Cloning Repository
 
-> git clone https://github.com/aviyelverse/aviyel-first-pr.git
+`git clone https://github.com/aviyelverse/aviyel-first-pr.git`
 
 ## Adding changes locally
 
-> git add .
+`git add .`
 
 ## Commiting Changes
 
-> git commit -m "Welcome to contributor roadmap with Aviyel"
+`git commit -m "Welcome to contributor roadmap with Aviyel"`
 
 ## Pushing into GH Repo
 
-> git push
+`git push`
 
 ## Creating a new branch
-> git checkout -b "branch-name"
+`git checkout -b "branch-name"`
 
 ## Checking your branch
->git branch
+`git branch`
 
 ## Switching different branches
-> git checkout "branch-you-want-to-switch"
+`git checkout "branch-you-want-to-switch"`
+
+## Pushing to different branch
+`git push origin branch-name`
+
+## Pulling changes from main repo
+`git pull`
 
 # Contributors
 
