@@ -33,6 +33,7 @@ This Repository has resources needed for a first time contributor
 
 1. [Joshua Poddoku](#joshua-poddoku)
 2. [Abel Mathew](#abel-mathew)
+3. [Siddharth Shivkumar](#siddharth-shivkumar)
 
 ## Joshua Poddoku
 
@@ -43,3 +44,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/joshuapod)
 
 Hey, I'm open-sourcing one step at a time!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/designrknight)
+
+## Siddharth Shivkumar
+
+Hey, I'm building and scaling opensource communities!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/siddharth-shivkumar/)
