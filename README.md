@@ -39,6 +39,7 @@ This Repository has resources needed for a first time contributor
 
 1. [Joshua Poddoku](#joshua-poddoku)
 2. [Abel Mathew](#abel-mathew)
+3. [Pranai Raj](#pranai-raj)
 
 ## Joshua Poddoku
 
@@ -49,3 +50,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/joshuapod)
 
 Hey, I'm open-sourcing one step at a time!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/designrknight)
+
+## Pranai Raj
+
+Hi, I'm pranai raj a frontend-developer currently working on MERN stack. I love to contribute to open-source projects.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
