@@ -33,6 +33,7 @@ This Repository has resources needed for a first time contributor
 
 1. [Joshua Poddoku](#joshua-poddoku)
 2. [Abel Mathew](#abel-mathew)
+3. [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
 
 ## Joshua Poddoku
 
@@ -43,3 +44,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/joshuapod)
 
 Hey, I'm open-sourcing one step at a time!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/designrknight)
+
+## Gurjeet Singh Virdee
+
+Hey, I'm in my first year. I love to contribute to Open Source projects.
+Connect withe me on [Linkedin](https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/)
