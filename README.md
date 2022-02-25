@@ -37,13 +37,14 @@ This Repository has resources needed for a first time contributor
 
 # Contributors
 
-1. [Joshua Poddoku](#joshua-poddoku)
-2. [Abel Mathew](#abel-mathew)
-3. [Loveth Omokaro](#lovelyfin00)
-4. [Rakesh Potnuru](#RakeshPotnuru)
-5. [Siddharth Shivkumar](#siddharth-shivkumar)
-6. [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
-7. [Pranai Raj](#pranai-raj)
+* [Joshua Poddoku](#joshua-poddoku)
+* [Abel Mathew](#abel-mathew)
+* [Loveth Omokaro](#lovelyfin00)
+* [Rakesh Potnuru](#RakeshPotnuru)
+* [Siddharth Shivkumar](#siddharth-shivkumar)
+* [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
+* [Pranai Raj](#pranai-raj)
+* [Sankalp Swami](#SwamiSankalp)
 
 ## Joshua Poddoku
 
@@ -81,3 +82,6 @@ Connect withe me on [Linkedin](https://www.linkedin.com/in/gurjeet-singh-virdee-
 Hi, I'm pranai raj a frontend-developer currently working on MERN stack. I love to contribute to open-source projects.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
 
+## Sankalp Swami
+
+Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by listening to LDR!!.
