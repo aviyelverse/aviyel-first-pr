@@ -39,6 +39,7 @@ This Repository has resources needed for a first time contributor
 
 1. [Joshua Poddoku](#joshua-poddoku)
 2. [Abel Mathew](#abel-mathew)
+3. [Rakesh Potnuru](#RakeshPotnuru)
 
 ## Joshua Poddoku
 
@@ -49,3 +50,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/joshuapod)
 
 Hey, I'm open-sourcing one step at a time!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/designrknight)
+
+## Rakesh Potnuru
+
+Hi, I'm a builder, creator and explorer.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/itsrakeshdotco)
