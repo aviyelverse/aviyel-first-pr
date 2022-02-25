@@ -39,11 +39,11 @@ This Repository has resources needed for a first time contributor
 
 1. [Joshua Poddoku](#joshua-poddoku)
 2. [Abel Mathew](#abel-mathew)
-3. [Rakesh Potnuru](#RakeshPotnuru)
-4. [Siddharth Shivkumar](#siddharth-shivkumar)
-5. [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
-6. [Pranai Raj](#pranai-raj)
-
+3. [Loveth Omokaro](#lovelyfin00)
+4. [Rakesh Potnuru](#RakeshPotnuru)
+5. [Siddharth Shivkumar](#siddharth-shivkumar)
+6. [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
+7. [Pranai Raj](#pranai-raj)
 
 ## Joshua Poddoku
 
@@ -54,6 +54,11 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/joshuapod)
 
 Hey, I'm open-sourcing one step at a time!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/designrknight)
+
+## Loveth Omokaro
+
+Hi, I'm learning about opensource and how to contribute to opensource projects!
+Connect with me on [LinkedIn](linkedin.com/mwlite/in/loveth-omokaro-4620b9122)
 
 ## Rakesh Potnuru
 
