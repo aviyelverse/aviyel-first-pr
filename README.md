@@ -40,6 +40,10 @@ This Repository has resources needed for a first time contributor
 1. [Joshua Poddoku](#joshua-poddoku)
 2. [Abel Mathew](#abel-mathew)
 3. [Rakesh Potnuru](#RakeshPotnuru)
+4. [Siddharth Shivkumar](#siddharth-shivkumar)
+5. [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
+6. [Pranai Raj](#pranai-raj)
+
 
 ## Joshua Poddoku
 
@@ -55,3 +59,20 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/designrknight)
 
 Hi, I'm a builder, creator and explorer.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/itsrakeshdotco)
+
+
+## Siddharth Shivkumar
+
+Hey, I'm building and scaling opensource communities!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/siddharth-shivkumar/)
+
+## Gurjeet Singh Virdee
+
+Hey, I'm in my first year. I love to contribute to Open Source projects.
+Connect withe me on [Linkedin](https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/)
+
+## Pranai Raj
+
+Hi, I'm pranai raj a frontend-developer currently working on MERN stack. I love to contribute to open-source projects.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
+
