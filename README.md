@@ -39,7 +39,8 @@ This Repository has resources needed for a first time contributor
 
 1. [Joshua Poddoku](#joshua-poddoku)
 2. [Abel Mathew](#abel-mathew)
-3. [Pranai Raj](#pranai-raj)
+3. [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
+4. [Pranai Raj](#pranai-raj)
 
 ## Joshua Poddoku
 
@@ -51,7 +52,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/joshuapod)
 Hey, I'm open-sourcing one step at a time!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/designrknight)
 
+## Gurjeet Singh Virdee
+
+Hey, I'm in my first year. I love to contribute to Open Source projects.
+Connect withe me on [Linkedin](https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/)
+
 ## Pranai Raj
 
 Hi, I'm pranai raj a frontend-developer currently working on MERN stack. I love to contribute to open-source projects.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
+
