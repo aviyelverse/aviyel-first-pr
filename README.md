@@ -45,6 +45,7 @@ This Repository has resources needed for a first time contributor
 * [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
 * [Pranai Raj](#pranai-raj)
 * [Sankalp Swami](#SwamiSankalp)
+* [Anjani Kumar Panchal](#Anjani-kumar-panchal)
 
 ## Joshua Poddoku
 
@@ -85,3 +86,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
 ## Sankalp Swami
 
 Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by listening to LDR!!.
+
+## Anjani Kumar Panchal
+
+Hi, I'm a web3 learner, designer and explorer.
+Connect with me on [Twitter](https://twitter.com/Aviraltech)
+
+
