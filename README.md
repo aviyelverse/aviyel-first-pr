@@ -45,6 +45,7 @@ This Repository has resources needed for a first time contributor
 * [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
 * [Pranai Raj](#pranai-raj)
 * [Sankalp Swami](#SwamiSankalp)
+* [Palak Jain](#Palak-Jain)
 
 ## Joshua Poddoku
 
