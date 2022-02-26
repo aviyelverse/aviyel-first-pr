@@ -85,3 +85,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
 ## Sankalp Swami
 
 Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by listening to LDR!!.
+
+## Palak Jain
+
+Hey, this is Palak Jain, frontend developer from India. I'm debugging life one step at a time.
