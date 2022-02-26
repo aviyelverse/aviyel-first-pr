@@ -45,6 +45,7 @@ This Repository has resources needed for a first time contributor
 * [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
 * [Pranai Raj](#pranai-raj)
 * [Sankalp Swami](#SwamiSankalp)
+* [Asmit Malakannawar](#Asmit2952)
 
 ## Joshua Poddoku
 
@@ -85,3 +86,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
 ## Sankalp Swami
 
 Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by listening to LDR!!.
+
+## Asmit Malakannawar
+
+Hey, this is Asmit, I am a tech enthusiast, designer & an open-source advocate.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/asmit-malakannawar/).
