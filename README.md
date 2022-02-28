@@ -1,6 +1,6 @@
 # aviyel-first-pr
-This Repository has resources needed for a first time contributor
 
+This Repository has resources needed for a first time contributor
 
 # Git Commands
 
@@ -21,30 +21,36 @@ This Repository has resources needed for a first time contributor
 `git push`
 
 ## Creating a new branch
+
 `git checkout -b "branch-name"`
 
 ## Checking your branch
+
 `git branch`
 
 ## Switching different branches
+
 `git checkout "branch-you-want-to-switch"`
 
 ## Pushing to different branch
+
 `git push origin branch-name`
 
 ## Pulling changes from main repo
+
 `git pull`
 
 # Contributors
 
-* [Joshua Poddoku](#joshua-poddoku)
-* [Abel Mathew](#abel-mathew)
-* [Loveth Omokaro](#lovelyfin00)
-* [Rakesh Potnuru](#RakeshPotnuru)
-* [Siddharth Shivkumar](#siddharth-shivkumar)
-* [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
-* [Pranai Raj](#pranai-raj)
-* [Sankalp Swami](#SwamiSankalp)
+- [Joshua Poddoku](#joshua-poddoku)
+- [Abel Mathew](#abel-mathew)
+- [Loveth Omokaro](#lovelyfin00)
+- [Rakesh Potnuru](#RakeshPotnuru)
+- [Siddharth Shivkumar](#siddharth-shivkumar)
+- [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
+- [Pranai Raj](#pranai-raj)
+- [Sankalp Swami](#SwamiSankalp)
+- [Fidal Mathew](#FidalMathew)
 
 ## Joshua Poddoku
 
@@ -66,7 +72,6 @@ Connect with me on [LinkedIn](linkedin.com/mwlite/in/loveth-omokaro-4620b9122)
 Hi, I'm a builder, creator and explorer.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/itsrakeshdotco)
 
-
 ## Siddharth Shivkumar
 
 Hey, I'm building and scaling opensource communities!
@@ -85,3 +90,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
 ## Sankalp Swami
 
 Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by listening to LDR!!.
+
+## Fidal Mathew
+
+Hi, I'm Fidal Mathew. I'm a frontend-developer currently learning on MERN stack. I love to contribute to open-source projects and write blogs.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/fidal-mathew-82aba7200/)
