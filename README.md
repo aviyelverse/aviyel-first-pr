@@ -42,21 +42,21 @@ This Repository has resources needed for a first time contributor
 
 # Contributors
 
-* [Joshua Poddoku](#joshua-poddoku)
-* [Abel Mathew](#abel-mathew)
-* [Loveth Omokaro](#lovelyfin00)
-* [Rakesh Potnuru](#RakeshPotnuru)
-* [Siddharth Shivkumar](#siddharth-shivkumar)
-* [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
-* [Pranai Raj](#pranai-raj)
-* [Sankalp Swami](#SwamiSankalp)
-* [Palak Jain](#Palak-Jain)
-* [Asmit Malakannawar](#Asmit2952)
-* [Aniruddha Inge](#Aniruddha-Inge)
-* [Garima Mangal](#Garima-Mangal)
-* [Snehangsu De](#snehangsu-de)
-- [Fidal Mathew](#FidalMathew)
-* [Anjani Kumar Panchal](#Anjani-kumar-panchal)
+1. [Joshua Poddoku](#joshua-poddoku)
+2. [Abel Mathew](#abel-mathew)
+3. [Loveth Omokaro](#lovelyfin00)
+4. [Rakesh Potnuru](#RakeshPotnuru)
+5. [Siddharth Shivkumar](#siddharth-shivkumar)
+6. [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
+7. [Pranai Raj](#pranai-raj)
+8. [Sankalp Swami](#SwamiSankalp)
+9. [Palak Jain](#Palak-Jain)
+10. [Asmit Malakannawar](#Asmit2952)
+11. [Aniruddha Inge](#Aniruddha-Inge)
+12. [Garima Mangal](#Garima-Mangal)
+13. [Snehangsu De](#snehangsu-de)
+14. [Fidal Mathew](#FidalMathew)
+15. [Anjani Kumar Panchal](#Anjani-kumar-panchal)
 
 ## Joshua Poddoku
 
