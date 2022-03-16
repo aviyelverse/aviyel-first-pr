@@ -50,6 +50,7 @@ This Repository has resources needed for a first time contributor
 - [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
 - [Pranai Raj](#pranai-raj)
 - [Sankalp Swami](#SwamiSankalp)
+* [Snehangsu De](#snehangsu-de)
 - [Fidal Mathew](#FidalMathew)
 
 ## Joshua Poddoku
@@ -90,6 +91,12 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
 ## Sankalp Swami
 
 Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by listening to LDR!!.
+
+## Snehangsu De
+
+Hey, I'm currently working with Neural Nets, creating content around it and Kaggling a lot. 
+Looking forward to contribute to Open-Source projects! 
+Connect with me on [Twitter](https://twitter.com/_Perceptron_) or [LinkedIn](https://www.linkedin.com/in/snehangsu-de/).
 
 ## Fidal Mathew
 
