@@ -50,6 +50,7 @@ This Repository has resources needed for a first time contributor
 * [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
 * [Pranai Raj](#pranai-raj)
 * [Sankalp Swami](#SwamiSankalp)
+* [Palak Jain](#Palak-Jain)
 * [Asmit Malakannawar](#Asmit2952)
 * [Aniruddha Inge](#Aniruddha-Inge)
 * [Garima Mangal](#Garima-Mangal)
@@ -96,6 +97,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
 
 Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by listening to LDR!!.
 
+## Palak Jain
+
+Hey, this is Palak Jain, frontend developer from India. I'm debugging life one step at a time.
+
 
 ## Asmit Malakannawar
 
@@ -126,3 +131,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/fidal-mathew-82aba7200
 
 Hi, I'm a web3 learner, designer and explorer.
 Connect with me on [Twitter](https://twitter.com/Aviraltech)
+
