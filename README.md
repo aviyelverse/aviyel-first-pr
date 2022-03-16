@@ -50,6 +50,7 @@ This Repository has resources needed for a first time contributor
 * [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
 * [Pranai Raj](#pranai-raj)
 * [Sankalp Swami](#SwamiSankalp)
+* [Aniruddha Inge](#Aniruddha-Inge)
 * [Garima Mangal](#Garima-Mangal)
 * [Snehangsu De](#snehangsu-de)
 - [Fidal Mathew](#FidalMathew)
@@ -93,6 +94,10 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
 ## Sankalp Swami
 
 Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by listening to LDR!!.
+
+## Aniruddha Inge
+
+Hey, I am a front-end web developer. I love problem solving and contributing to open source. Connect with me on [LinkedIn](https://www.linkedin.com/in/aniruddhainge)
 
 ## Garima Mangal
 
