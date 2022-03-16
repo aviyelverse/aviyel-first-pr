@@ -50,6 +50,7 @@ This Repository has resources needed for a first time contributor
 * [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
 * [Pranai Raj](#pranai-raj)
 * [Sankalp Swami](#SwamiSankalp)
+* [Garima Mangal](#Garima-Mangal)
 * [Snehangsu De](#snehangsu-de)
 - [Fidal Mathew](#FidalMathew)
 * [Anjani Kumar Panchal](#Anjani-kumar-panchal)
@@ -93,7 +94,11 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
 
 Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by listening to LDR!!.
 
-=======
+## Garima Mangal
+
+Hey, I am Garima, currently doing Btech. I am here to learn how to contribute to open-source projects znd i am very excited about the journey ahead.
+Connect with me on [Linkedin](https://www.linkedin.com/in/garima-mangal-176a63200/)
+
 ## Snehangsu De
 
 Hey, I'm currently working with Neural Nets, creating content around it and Kaggling a lot. 
@@ -109,3 +114,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/fidal-mathew-82aba7200
 
 Hi, I'm a web3 learner, designer and explorer.
 Connect with me on [Twitter](https://twitter.com/Aviraltech)
+
