@@ -42,16 +42,17 @@ This Repository has resources needed for a first time contributor
 
 # Contributors
 
-- [Joshua Poddoku](#joshua-poddoku)
-- [Abel Mathew](#abel-mathew)
-- [Loveth Omokaro](#lovelyfin00)
-- [Rakesh Potnuru](#RakeshPotnuru)
-- [Siddharth Shivkumar](#siddharth-shivkumar)
-- [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
-- [Pranai Raj](#pranai-raj)
-- [Sankalp Swami](#SwamiSankalp)
+* [Joshua Poddoku](#joshua-poddoku)
+* [Abel Mathew](#abel-mathew)
+* [Loveth Omokaro](#lovelyfin00)
+* [Rakesh Potnuru](#RakeshPotnuru)
+* [Siddharth Shivkumar](#siddharth-shivkumar)
+* [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
+* [Pranai Raj](#pranai-raj)
+* [Sankalp Swami](#SwamiSankalp)
 * [Snehangsu De](#snehangsu-de)
 - [Fidal Mathew](#FidalMathew)
+* [Anjani Kumar Panchal](#Anjani-kumar-panchal)
 
 ## Joshua Poddoku
 
@@ -92,6 +93,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/pranai-raj/)
 
 Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by listening to LDR!!.
 
+=======
 ## Snehangsu De
 
 Hey, I'm currently working with Neural Nets, creating content around it and Kaggling a lot. 
@@ -102,3 +104,8 @@ Connect with me on [Twitter](https://twitter.com/_Perceptron_) or [LinkedIn](htt
 
 Hi, I'm Fidal Mathew. I'm a frontend-developer currently learning on MERN stack. I love to contribute to open-source projects and write blogs.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/fidal-mathew-82aba7200/)
+
+## Anjani Kumar Panchal
+
+Hi, I'm a web3 learner, designer and explorer.
+Connect with me on [Twitter](https://twitter.com/Aviraltech)
