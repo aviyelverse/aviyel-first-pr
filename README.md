@@ -2,6 +2,8 @@
 
 This Repository has resources needed for a first time contributor
 
+Take a look at the current contributors of Aviyel [here](./CONTRIBUTORS.md).
+
 # Git Commands
 
 ## Cloning Repository
