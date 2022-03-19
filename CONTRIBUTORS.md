@@ -93,5 +93,5 @@ Connect with me on [Twitter](https://twitter.com/Aviraltech)
 
 ## Varghese Jose
 
-Hi,I'm Varghese Jose. I'm FOSS enthusiast an open-source contributor.Connect with me on [Twitter](https://twitter.com/varghesejosedev)
+Hi,I'm Varghese Jose. I'm FOSS enthusiast and open-source contributor.Connect with me on [Twitter](https://twitter.com/varghesejosedev)
 
