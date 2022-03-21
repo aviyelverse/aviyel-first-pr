@@ -15,6 +15,7 @@
 13. [Snehangsu De](#snehangsu-de)
 14. [Fidal Mathew](#FidalMathew)
 15. [Anjani Kumar Panchal](#Anjani-kumar-panchal)
+16. [Varghese Jose](#Varghese-Jose)
 
 ## Joshua Poddoku
 
@@ -89,3 +90,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/fidal-mathew-82aba7200
 
 Hi, I'm a web3 learner, designer and explorer.
 Connect with me on [Twitter](https://twitter.com/Aviraltech)
+
+## Varghese Jose
+
+Hi,I'm Varghese Jose. I'm FOSS enthusiast and open-source contributor.Connect with me on [Twitter](https://twitter.com/varghesejosedev)
+
