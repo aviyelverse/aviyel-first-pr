@@ -4,7 +4,7 @@ This Repository has resources needed for a first time contributor
 
 Want to Contribute, Make sure first you read [CONTRIBUTING GUIDELINES](./CONTRIBUTING.md)
 
-Take a look at the list of contributors [here](./CONTRIBUTORS.md).
+Please feel free to add yourself [here](./CONTRIBUTORS.md).
 
 # Git Commands
 
