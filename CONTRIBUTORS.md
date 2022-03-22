@@ -98,5 +98,4 @@ Connect with me on [Twitter](https://twitter.com/Aviraltech)
 Hi,I'm Varghese Jose. I'm FOSS enthusiast and open-source contributor.Connect with me on [Twitter](https://twitter.com/varghesejosedev)
 
 ## Shubham VIdhawan
-Hi im a soft dev , learner and explorer.twitter daalu kya phle commit hojane de fir add krlena aa
-ok
+Hi im a soft dev , learner and explorer.
