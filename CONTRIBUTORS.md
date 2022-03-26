@@ -16,6 +16,7 @@
 14. [Fidal Mathew](#FidalMathew)
 15. [Anjani Kumar Panchal](#Anjani-kumar-panchal)
 16. [Varghese Jose](#Varghese-Jose)
+17. [Musab Habeeb ](#Musab-Habeeb)
 
 ## Joshua Poddoku
 
@@ -94,4 +95,8 @@ Connect with me on [Twitter](https://twitter.com/Aviraltech)
 ## Varghese Jose
 
 Hi,I'm Varghese Jose. I'm FOSS enthusiast and open-source contributor.Connect with me on [Twitter](https://twitter.com/varghesejosedev)
+
+## Musab Habeeb
+
+Hi, I am Musab Habeeb. I am a frontend developer focusing on React and its ecosystem to build responsive and accessible web applications. I am imterested in making impactful open-source contribution. Connect with me on [LinkedIn](https://www.linkedin.com/in/musab-habeeb-8a90611b9)
 
