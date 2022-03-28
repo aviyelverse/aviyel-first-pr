@@ -17,6 +17,8 @@
 15. [Anjani Kumar Panchal](#Anjani-kumar-panchal)
 16. [Varghese Jose](#Varghese-Jose)
 17. [Danish Saleem](#Danish-Saleem)
+18. [Joseph Jose](#Joseph-Jose)
+
 
 ## Joshua Poddoku
 
@@ -98,3 +100,6 @@ Hi,I'm Varghese Jose. I'm FOSS enthusiast and open-source contributor.Connect wi
 ## Danish Saleem
 
 Hi there, I'm Danish Saleem. A newbie software engineer and a night owl, willing to create amazing websites and web apps. On a journey to becoming a **_MERN Stack_** and an **_Open Source enthusiast._** Check out my [Linktree](https://linktr.ee/mrdanishsaleem)
+
+## Joseph Jose
+Hi, I'm Joseph Jose  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am a Full Stack Developer,FOSS Enthusiast and an Open Source Advocate. I am always open to collaborating and contributing on Open source projects.Connect with me on [Twiitter](https://twitter.com/josephjose097)

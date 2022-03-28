@@ -28,7 +28,7 @@ where `name` is your GitHub username. Here you're copying the contents of the Cl
 ## Navigate to the project directory
 * After cloning the project in your computer, navigate to the project file using the command below.
 ```
-cd clone-it
+cd <cloned-repo>
 ```
 
 ## Add a reference(remote) to the original repository
