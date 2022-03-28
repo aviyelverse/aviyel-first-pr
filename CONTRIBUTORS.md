@@ -17,6 +17,10 @@
 15. [Anjani Kumar Panchal](#Anjani-kumar-panchal)
 16. [Varghese Jose](#Varghese-Jose)
 17. [Musab Habeeb ](#Musab-Habeeb)
+18. [Shubham Vidhawan](#Shubham-Vidhawan)
+19. [Danish Saleem](#Danish-Saleem)
+20. [Joseph Jose](#Joseph-Jose)
+
 
 ## Joshua Poddoku
 
@@ -61,7 +65,6 @@ Hey, this is Sankalp Swami, NodeJS Developer from India. I get intoxicated by li
 
 Hey, this is Palak Jain, frontend developer from India. I'm debugging life one step at a time.
 
-
 ## Asmit Malakannawar
 
 Hey, this is Asmit, I am a tech enthusiast, designer & an open-source advocate.
@@ -78,8 +81,8 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/garima-mangal-176a6320
 
 ## Snehangsu De
 
-Hey, I'm currently working with Neural Nets, creating content around it and Kaggling a lot. 
-Looking forward to contribute to Open-Source projects! 
+Hey, I'm currently working with Neural Nets, creating content around it and Kaggling a lot.
+Looking forward to contribute to Open-Source projects!
 Connect with me on [Twitter](https://twitter.com/_Perceptron_) or [LinkedIn](https://www.linkedin.com/in/snehangsu-de/).
 
 ## Fidal Mathew
@@ -100,3 +103,13 @@ Hi,I'm Varghese Jose. I'm FOSS enthusiast and open-source contributor.Connect wi
 
 Hi, I am Musab Habeeb. I am a frontend developer focusing on React and its ecosystem to build responsive and accessible web applications. I am imterested in making impactful open-source contribution. Connect with me on [LinkedIn](https://www.linkedin.com/in/musab-habeeb-8a90611b9)
 
+## Shubham VIdhawan
+
+Hi im a soft dev , learner and explorer.
+
+## Danish Saleem
+
+Hi there, I'm Danish Saleem. A newbie software engineer and a night owl, willing to create amazing websites and web apps. On a journey to becoming a **_MERN Stack_** and an **_Open Source enthusiast._** Check out my [Linktree](https://linktr.ee/mrdanishsaleem)
+
+## Joseph Jose
+Hi, I'm Joseph Jose  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am a Full Stack Developer,FOSS Enthusiast and an Open Source Advocate. I am always open to collaborating and contributing on Open source projects.Connect with me on [Twiitter](https://twitter.com/josephjose097)
