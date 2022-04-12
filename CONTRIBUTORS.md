@@ -20,6 +20,7 @@
 18. [Shubham Vidhawan](#Shubham-Vidhawan)
 19. [Danish Saleem](#Danish-Saleem)
 20. [Joseph Jose](#Joseph-Jose)
+21. [Segun Ajibola](#Segun-Ajibola)
 
 
 ## Joshua Poddoku
@@ -113,3 +114,7 @@ Hi there, I'm Danish Saleem. A newbie software engineer and a night owl, willing
 
 ## Joseph Jose
 Hi, I'm Joseph Jose  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am a Full Stack Developer,FOSS Enthusiast and an Open Source Advocate. I am always open to collaborating and contributing on Open source projects.Connect with me on [Twiitter](https://twitter.com/josephjose097)
+
+## Segun Ajibola
+
+Hello, I'm a frontend web developer intrested in open source and technical writing. I enjoy sharing my knowledge on [Twiitter](https://twitter.com/segunajibola).
