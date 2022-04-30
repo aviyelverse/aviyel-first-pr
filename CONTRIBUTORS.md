@@ -21,6 +21,7 @@
 19. [Danish Saleem](#Danish-Saleem)
 20. [Joseph Jose](#Joseph-Jose)
 21. [Segun Ajibola](#Segun-Ajibola)
+22. [Victor Eke](#victor-eke)
 
 
 ## Joshua Poddoku
@@ -118,3 +119,7 @@ Hi, I'm Joseph Jose  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi
 ## Segun Ajibola
 
 Hello, I'm a frontend web developer intrested in open source and technical writing. I enjoy sharing my knowledge on [Twitter](https://twitter.com/segunajibola).
+
+
+## Victor Eke
+Hi, I'm Eke. 💚 A Frontend Developer, Open Source mainter and technical writer at [Aviyel](https://aviyel.com) who loves building projects in Open Source communities. I am always open to collaborating and contributing on new ideas. You can Connect with me on [Twiitter](https://twitter.com/evavic44).
