@@ -10,36 +10,54 @@ Please feel free to add yourself [here](./CONTRIBUTORS.md).
 
 ## Cloning Repository
 
-`git clone https://github.com/aviyelverse/aviyel-first-pr.git`
+```bash
+git clone https://github.com/aviyelverse/aviyel-first-pr.git
+```
 
 ## Adding changes locally
 
-`git add .`
+```bash
+git add .
+```
 
 ## Commiting Changes
 
-`git commit -m "Welcome to contributor roadmap with Aviyel"`
+```bash
+git commit -m "Welcome to contributor roadmap with Aviyel"
+```
 
 ## Pushing into GH Repo
 
-`git push`
+```bash
+git push
+```
 
 ## Creating a new branch
 
-`git checkout -b "branch-name"`
+```bash
+git checkout -b "branch-name"
+```
 
 ## Checking your branch
 
-`git branch`
+```bash
+git branch
+```
 
 ## Switching different branches
 
-`git checkout "branch-you-want-to-switch"`
+```bash
+git checkout "branch-you-want-to-switch"
+```
 
 ## Pushing to different branch
 
-`git push origin branch-name`
+```bash
+git push origin branch-name
+```
 
 ## Pulling changes from main repo
 
-`git pull`
+```bash
+git pull
+```
