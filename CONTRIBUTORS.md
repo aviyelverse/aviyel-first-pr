@@ -22,6 +22,7 @@
 20. [Joseph Jose](#Joseph-Jose)
 21. [Segun Ajibola](#Segun-Ajibola)
 22. [Victor Eke](#victor-eke)
+23. [Benjamin Thorpe](#Benjamin-Thorpe)
 
 
 ## Joshua Poddoku
@@ -123,3 +124,9 @@ Hello, I'm a frontend web developer intrested in open source and technical writi
 
 ## Victor Eke
 Hi, I'm Eke. 💚 A Frontend Developer, Open Source mainter and technical writer at [Aviyel](https://aviyel.com) who loves building projects in Open Source communities. I am always open to collaborating and contributing on new ideas. You can Connect with me on [Twitter](https://twitter.com/evavic44).
+
+
+## Benjamin Thorpe
+Hi there, I'm Benjamin, a Frontend Developer addicted to [Svelte](https://svelte.dev).
+I’m looking to collaborate on projects or anything interesting and fun.
+Talk to me about HTML, CSS, JavaScript, Svelte, Python, Flask, Open Source, Chess
