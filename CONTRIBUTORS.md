@@ -16,14 +16,13 @@
 14. [Fidal Mathew](#FidalMathew)
 15. [Anjani Kumar Panchal](#Anjani-kumar-panchal)
 16. [Varghese Jose](#Varghese-Jose)
-17. [Musab Habeeb ](#Musab-Habeeb)
+17. [Musab Habeeb](#Musab-Habeeb)
 18. [Shubham Vidhawan](#Shubham-Vidhawan)
 19. [Danish Saleem](#Danish-Saleem)
 20. [Joseph Jose](#Joseph-Jose)
 21. [Segun Ajibola](#Segun-Ajibola)
 22. [Victor Eke](#victor-eke)
 23. [Benjamin Thorpe](#Benjamin-Thorpe)
-
 
 ## Joshua Poddoku
 
@@ -112,21 +111,22 @@ Hi im a soft dev , learner and explorer.
 
 ## Danish Saleem
 
-Hi there, I'm Danish Saleem. A newbie software engineer and a night owl, willing to create amazing websites and web apps. On a journey to becoming a **_MERN Stack_** and an **_Open Source enthusiast._** Check out my [Linktree](https://linktr.ee/mrdanishsaleem)
+Hi there, I'm Danish Saleem. A Software Engineer, and Night Owl!Building Websites, Web apps, proficient in full stack development. Writing articles on sometimes. On a journey to becoming a **_MERN Stack_** and an **_Open Source enthusiast._** Check out my [GitHub](https://github.com/mrdanishsaleem/)
 
 ## Joseph Jose
-Hi, I'm Joseph Jose  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am a Full Stack Developer,FOSS Enthusiast and an Open Source Advocate. I am always open to collaborating and contributing on Open source projects.Connect with me on [Twiitter](https://twitter.com/josephjose097)
+
+Hi, I'm Joseph Jose <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am a Full Stack Developer,FOSS Enthusiast and an Open Source Advocate. I am always open to collaborating and contributing on Open source projects.Connect with me on [Twitter](https://twitter.com/josephjose097)
 
 ## Segun Ajibola
 
 Hello, I'm a frontend web developer intrested in open source and technical writing. I enjoy sharing my knowledge on [Twitter](https://twitter.com/segunajibola).
 
-
 ## Victor Eke
+
 Hi, I'm Eke. 💚 A Frontend Developer, Open Source mainter and technical writer at [Aviyel](https://aviyel.com) who loves building projects in Open Source communities. I am always open to collaborating and contributing on new ideas. You can Connect with me on [Twitter](https://twitter.com/evavic44).
 
-
 ## Benjamin Thorpe
+
 Hi there, I'm Benjamin, a Frontend Developer addicted to [Svelte](https://svelte.dev).
 I’m looking to collaborate on projects or anything interesting and fun.
 Talk to me about HTML, CSS, JavaScript, Svelte, Python, Flask, Open Source, Chess
