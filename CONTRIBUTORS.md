@@ -123,10 +123,14 @@ Hello, I'm a frontend web developer intrested in open source and technical writi
 
 ## Victor Eke
 
-Hi, I'm Eke. 💚 A Frontend Developer, Open Source mainter and technical writer at [Aviyel](https://aviyel.com) who loves building projects in Open Source communities. I am always open to collaborating and contributing on new ideas. You can Connect with me on [Twitter](https://twitter.com/evavic44).
+Hi, I'm Eke. 💚 A Frontend Developer, Open Source maintainer and technical writer at [Aviyel](https://aviyel.com) who loves building projects in Open Source communities. I am always open to collaborating and contributing on new ideas. You can Connect with me on [Twitter](https://twitter.com/evavic44).
 
 ## Benjamin Thorpe
 
 Hi there, I'm Benjamin, a Frontend Developer addicted to [Svelte](https://svelte.dev).
 I’m looking to collaborate on projects or anything interesting and fun.
 Talk to me about HTML, CSS, JavaScript, Svelte, Python, Flask, Open Source, Chess
+
+## Victor He
+
+Greetings, I'm Victor. I'm a backend software engineer who's gradually making his way to full-stack. I'm looking to take my first steps into the world of OSS and to learn new skills as well as work with awesome people along the way! Connect with me on [LinkedIn](https://www.linkedin.com/in/he-victor/).
