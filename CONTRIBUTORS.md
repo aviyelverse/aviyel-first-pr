@@ -2,27 +2,28 @@
 
 1. [Joshua Poddoku](#joshua-poddoku)
 2. [Abel Mathew](#abel-mathew)
-3. [Loveth Omokaro](#lovelyfin00)
-4. [Rakesh Potnuru](#RakeshPotnuru)
+3. [Loveth Omokaro](#loveth-omokaro)
+4. [Rakesh Potnuru](#rakesh-potnuru)
 5. [Siddharth Shivkumar](#siddharth-shivkumar)
 6. [Gurjeet Singh Virdee](#gurjeet-singh-virdee)
 7. [Pranai Raj](#pranai-raj)
-8. [Sankalp Swami](#SwamiSankalp)
-9. [Palak Jain](#Palak-Jain)
-10. [Asmit Malakannawar](#Asmit2952)
-11. [Aniruddha Inge](#Aniruddha-Inge)
-12. [Garima Mangal](#Garima-Mangal)
+8. [Sankalp Swami](#sankalp-swami)
+9. [Palak Jain](#palak-jain)
+10. [Asmit Malakannawar](#asmit-malakannawar)
+11. [Aniruddha Inge](#aniruddha-inge)
+12. [Garima Mangal](#garima-mangal)
 13. [Snehangsu De](#snehangsu-de)
-14. [Fidal Mathew](#FidalMathew)
-15. [Anjani Kumar Panchal](#Anjani-kumar-panchal)
-16. [Varghese Jose](#Varghese-Jose)
-17. [Musab Habeeb](#Musab-Habeeb)
-18. [Shubham Vidhawan](#Shubham-Vidhawan)
-19. [Danish Saleem](#Danish-Saleem)
-20. [Joseph Jose](#Joseph-Jose)
-21. [Segun Ajibola](#Segun-Ajibola)
+14. [Fidal Mathew](#fidal-mathew)
+15. [Anjani Kumar Panchal](#anjani-kumar-panchal)
+16. [Varghese Jose](#varghese-jose)
+17. [Musab Habeeb](#musab-habeeb)
+18. [Shubham Vidhawan](#shubham-vidhawan)
+19. [Danish Saleem](#danish-saleem)
+20. [Joseph Jose](#joseph-jose)
+21. [Segun Ajibola](#segun-ajibola)
 22. [Victor Eke](#victor-eke)
-23. [Benjamin Thorpe](#Benjamin-Thorpe)
+23. [Benjamin Thorpe](#benjamin-thorpe)
+24. [Timilehin Omolana](#timilehin-omolana)
 
 ## Joshua Poddoku
 
@@ -130,3 +131,7 @@ Hi, I'm Eke. 💚 A Frontend Developer, Open Source mainter and technical writer
 Hi there, I'm Benjamin, a Frontend Developer addicted to [Svelte](https://svelte.dev).
 I’m looking to collaborate on projects or anything interesting and fun.
 Talk to me about HTML, CSS, JavaScript, Svelte, Python, Flask, Open Source, Chess
+
+## Timilehin Omolana
+
+Hey there 👋, I'm Timilehin, a Backend Engineer and Technical Writer. I'm looking to contribute to open-source while developing my skills and network. Ask me about Node.js, Golang, Databases, Cloud, Blockchain, Writing and Open Source. Connect with me on [Linkedin](linkedin.com/in/timilehinomolana-5767371b7).
