@@ -24,6 +24,7 @@
 22. [Victor Eke](#victor-eke)
 23. [Benjamin Thorpe](#benjamin-thorpe)
 24. [Timilehin Omolana](#timilehin-omolana)
+25. [Andrew Osei Owusu](#andrew-osei-owusu)
 
 ## Joshua Poddoku
 
@@ -135,3 +136,7 @@ Talk to me about HTML, CSS, JavaScript, Svelte, Python, Flask, Open Source, Ches
 ## Timilehin Omolana
 
 Hey there 👋, I'm Timilehin, a Backend Engineer and Technical Writer. I'm looking to contribute to open-source while developing my skills and network. Ask me about Node.js, Golang, Databases, Cloud, Blockchain, Writing and Open Source. Connect with me on [Linkedin](linkedin.com/in/timilehinomolana-5767371b7).
+
+## Andrew Osei Owusu
+
+Hi, I'm Andrew, a Frontend web developer with interest in React. I'm currently looking to contribute and collaborate on open source projects. Let's connect on [Twitter](https://twitter.com/_andyosei)
