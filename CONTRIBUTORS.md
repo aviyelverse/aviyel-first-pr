@@ -24,6 +24,7 @@
 22. [Victor Eke](#victor-eke)
 23. [Benjamin Thorpe](#benjamin-thorpe)
 24. [Timilehin Omolana](#timilehin-omolana)
+25. [Victor He](#victor-he)
 
 ## Joshua Poddoku
 
@@ -124,7 +125,7 @@ Hello, I'm a frontend web developer intrested in open source and technical writi
 
 ## Victor Eke
 
-Hi, I'm Eke. 💚 A Frontend Developer, Open Source mainter and technical writer at [Aviyel](https://aviyel.com) who loves building projects in Open Source communities. I am always open to collaborating and contributing on new ideas. You can Connect with me on [Twitter](https://twitter.com/evavic44).
+Hi, I'm Eke. 💚 A Frontend Developer, Open Source maintainer and technical writer at [Aviyel](https://aviyel.com) who loves building projects in Open Source communities. I am always open to collaborating and contributing on new ideas. You can Connect with me on [Twitter](https://twitter.com/evavic44).
 
 ## Benjamin Thorpe
 
@@ -135,3 +136,7 @@ Talk to me about HTML, CSS, JavaScript, Svelte, Python, Flask, Open Source, Ches
 ## Timilehin Omolana
 
 Hey there 👋, I'm Timilehin, a Backend Engineer and Technical Writer. I'm looking to contribute to open-source while developing my skills and network. Ask me about Node.js, Golang, Databases, Cloud, Blockchain, Writing and Open Source. Connect with me on [Linkedin](linkedin.com/in/timilehinomolana-5767371b7).
+
+## Victor He
+
+Greetings, I'm Victor. I'm a backend software engineer who's gradually making his way to full-stack. I'm looking to take my first steps into the world of OSS and to learn new skills as well as work with awesome people along the way! Connect with me on [LinkedIn](https://www.linkedin.com/in/he-victor/).
