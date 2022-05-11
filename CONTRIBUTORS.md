@@ -25,6 +25,7 @@
 23. [Benjamin Thorpe](#benjamin-thorpe)
 24. [Timilehin Omolana](#timilehin-omolana)
 25. [Andrew Osei Owusu](#andrew-osei-owusu)
+26. [Victor He](#victor-he)
 
 ## Joshua Poddoku
 
@@ -125,7 +126,7 @@ Hello, I'm a frontend web developer intrested in open source and technical writi
 
 ## Victor Eke
 
-Hi, I'm Eke. 💚 A Frontend Developer, Open Source mainter and technical writer at [Aviyel](https://aviyel.com) who loves building projects in Open Source communities. I am always open to collaborating and contributing on new ideas. You can Connect with me on [Twitter](https://twitter.com/evavic44).
+Hi, I'm Eke. 💚 A Frontend Developer, Open Source maintainer and technical writer at [Aviyel](https://aviyel.com) who loves building projects in Open Source communities. I am always open to collaborating and contributing on new ideas. You can Connect with me on [Twitter](https://twitter.com/evavic44).
 
 ## Benjamin Thorpe
 
@@ -140,3 +141,8 @@ Hey there 👋, I'm Timilehin, a Backend Engineer and Technical Writer. I'm look
 ## Andrew Osei Owusu
 
 Hi, I'm Andrew, a Frontend web developer with interest in React. I'm currently looking to contribute and collaborate on open source projects. Let's connect on [Twitter](https://twitter.com/_andyosei)
+
+## Victor He
+
+Greetings, I'm Victor. I'm a backend software engineer who's gradually making his way to full-stack. I'm looking to take my first steps into the world of OSS and to learn new skills as well as work with awesome people along the way! Connect with me on [LinkedIn](https://www.linkedin.com/in/he-victor/).
+
