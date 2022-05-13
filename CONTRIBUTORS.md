@@ -26,6 +26,7 @@
 24. [Timilehin Omolana](#timilehin-omolana)
 25. [Andrew Osei Owusu](#andrew-osei-owusu)
 26. [Victor He](#victor-he)
+27. [Tracy Nuwagaba](#tracy-nuwagaba)
 
 ## Joshua Poddoku
 
@@ -146,3 +147,6 @@ Hi, I'm Andrew, a Frontend web developer with interest in React. I'm currently l
 
 Greetings, I'm Victor. I'm a backend software engineer who's gradually making his way to full-stack. I'm looking to take my first steps into the world of OSS and to learn new skills as well as work with awesome people along the way! Connect with me on [LinkedIn](https://www.linkedin.com/in/he-victor/).
 
+## Tracy Nuwagaba
+
+Hi, I'm learning how to contribute to open source projects with an interest in technical writing. Connect with me on [LinkedIn](https://www.linkedin.com/in/tracy-nuwagaba/) and [Twitter](https://twitter.com/tracycod3r).
