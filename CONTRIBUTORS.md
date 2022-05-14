@@ -26,6 +26,7 @@
 24. [Timilehin Omolana](#timilehin-omolana)
 25. [Andrew Osei Owusu](#andrew-osei-owusu)
 26. [Victor He](#victor-he)
+27. [Bhumi Khokhani](#bhumikhokhani)
 
 ## Joshua Poddoku
 
@@ -145,4 +146,7 @@ Hi, I'm Andrew, a Frontend web developer with interest in React. I'm currently l
 ## Victor He
 
 Greetings, I'm Victor. I'm a backend software engineer who's gradually making his way to full-stack. I'm looking to take my first steps into the world of OSS and to learn new skills as well as work with awesome people along the way! Connect with me on [LinkedIn](https://www.linkedin.com/in/he-victor/).
+
+# Bhumi Khokhani
+Hi, I'm Bhumi Khokhani, a front-end developer, graphic designer, and technical writer. I'm looking forward to contributing to the open-source community by learning and sharing my knowledge through my articles. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhumikhokhani)
 
