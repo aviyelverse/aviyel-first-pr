@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-## Never made an open source contribution before? Wondering how contributions work in the in our project? Here's a quick rundown!
+## Never made an open source contribution before? Wondering how contributions work in our project? Here's a quick rundown!
 
 ## Fork this repository
 
