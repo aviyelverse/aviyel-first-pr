@@ -27,6 +27,7 @@
 25. [Andrew Osei Owusu](#andrew-osei-owusu)
 26. [Victor He](#victor-he)
 27. [Collins Rono](#rono516)
+28. [Tracy Nuwagaba](#tracy-nuwagaba)
 
 ## Joshua Poddoku
 
@@ -150,3 +151,7 @@ Greetings, I'm Victor. I'm a backend software engineer who's gradually making hi
 ## Collins Rono
 
 Hi, I'm Collins Rono. An IT student looking to get into open source and these are my first baby steps. Hoping to learn new skills on the way and meet more people throughout the journey. Connect with me on [Twitter](https://twitter.com/collins42rono).
+
+## Tracy Nuwagaba
+
+Hi, I'm learning how to contribute to open source projects with an interest in technical writing. Connect with me on [LinkedIn](https://www.linkedin.com/in/tracy-nuwagaba/) and [Twitter](https://twitter.com/tracycod3r).
