@@ -26,8 +26,9 @@
 24. [Timilehin Omolana](#timilehin-omolana)
 25. [Andrew Osei Owusu](#andrew-osei-owusu)
 26. [Victor He](#victor-he)
-27. [Collins Rono](#rono516)
-28. [Tracy Nuwagaba](#tracy-nuwagaba)
+27. [Akande Olalekan Toheeb](#akande-olalekan-toheeb)
+28. [Collins Rono](#rono516)
+29. [Tracy Nuwagaba](#tracy-nuwagaba)
 
 ## Joshua Poddoku
 
@@ -147,6 +148,10 @@ Hi, I'm Andrew, a Frontend web developer with interest in React. I'm currently l
 ## Victor He
 
 Greetings, I'm Victor. I'm a backend software engineer who's gradually making his way to full-stack. I'm looking to take my first steps into the world of OSS and to learn new skills as well as work with awesome people along the way! Connect with me on [LinkedIn](https://www.linkedin.com/in/he-victor/).
+
+## Akande Olalekan Toheeb
+
+Hi all! I'm Akande( Frontend Developer | Technical Writer | AWS Community Builder). I'm very high on my growth and I'm giving my all towards achieving greatness in this path I choose. I'm looking forward to learn, teach, improve my skills and level up by contributing to the open source. You can connect with me on [LinkedIn](https://www.linkedin.com/in/akande-olalekan-toheeb-2a69a0221/) for any collaboration.
 
 ## Collins Rono
 
