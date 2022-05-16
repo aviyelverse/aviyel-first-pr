@@ -26,9 +26,9 @@
 24. [Timilehin Omolana](#timilehin-omolana)
 25. [Andrew Osei Owusu](#andrew-osei-owusu)
 26. [Victor He](#victor-he)
-27. [Bhumi Khokhani](#bhumikhokhani)
+27. [Bhumi Khokhani](#bhumi-khokhani)
 28. [Akande Olalekan Toheeb](#akande-olalekan-toheeb)
-29. [Collins Rono](#rono516)
+29. [Collins Rono](#collins-rono)
 30. [Tracy Nuwagaba](#tracy-nuwagaba)
 
 ## Joshua Poddoku
