@@ -30,6 +30,7 @@
 28. [Akande Olalekan Toheeb](#akande-olalekan-toheeb)
 29. [Collins Rono](#collins-rono)
 30. [Tracy Nuwagaba](#tracy-nuwagaba)
+31. [M A Alim](#m-a-alim)
 
 ## Joshua Poddoku
 
@@ -164,3 +165,7 @@ Hi, I'm Collins Rono. An IT student looking to get into open source and these ar
 ## Tracy Nuwagaba
 
 Hi, I'm learning how to contribute to open source projects with an interest in technical writing. Connect with me on [LinkedIn](https://www.linkedin.com/in/tracy-nuwagaba/) and [Twitter](https://twitter.com/tracycod3r).
+
+## M A Alim
+
+Hi, I am learning how to contribute to open source projects. I am really very excited. This is going to be my first contribution to a public repo. I would love to contribute on open source projects. Connect me on [LinkedIn](https://www.linkedin.com/in/m-a-alim-2b481b7b/).
