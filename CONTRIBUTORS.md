@@ -31,6 +31,7 @@
 29. [Collins Rono](#collins-rono)
 30. [Tracy Nuwagaba](#tracy-nuwagaba)
 31. [M A Alim](#m-a-alim)
+32. [Ganesh Patil](#ganesh-patil)
 
 ## Joshua Poddoku
 
@@ -169,3 +170,6 @@ Hi, I'm learning how to contribute to open source projects with an interest in t
 ## M A Alim
 
 Hi, I am learning how to contribute to open source projects. I am really very excited. This is going to be my first contribution to a public repo. I would love to contribute on open source projects. Connect me on [LinkedIn](https://www.linkedin.com/in/m-a-alim-2b481b7b/).
+
+## Ganesh Patil
+Hey, I am Ganesh open source enthusiast currently learning full stack development and willing to contribute more to open source projects and work with other developers here is my [Twitter](https://twitter.com/PatilGanesh1010) to connect with me. 
