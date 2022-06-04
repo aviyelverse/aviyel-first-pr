@@ -34,6 +34,7 @@
 32. [Ganesh Patil](#ganesh-patil)
 33. [Ram Kumar](#ram-kumar)
 34. [Franklin Ohaegbulam](#franklin-ohaegbulam)
+35. [Yugal Agarwal](#yugal-agarwal)
 
 
 
@@ -154,3 +155,6 @@ Hey, I am Ram an open source enthusiast.Here is my [linkedin](https://www.linked
 ## Franklin Ohaegbulam
 Hello, I'm a Frontend Engineer, Visual Designer and Developer Advocate passionate about blockchain technology, open source, accessibility and inclusive design. You can reach me on
  [Twitter](https://www.twitter.com/frankiefab100).
+
+## Yugal Agarwal
+Hello 👋, I am Yugal an open source enthusiast. Other than that I am Android, ML and Web enthusiast. I also sometimes make filters for instagram. So, this is going to be my start of journey with **Aviyel** . Very excited to start this wonderful journey. Feel free to connect with me on [Twitter](https://www.linkedin.com/in/adonis1434/) and [LinkedIn](https://www.linkedin.com/in/yugal-agarwal-5433331bb/). Have a nice day 😄.
