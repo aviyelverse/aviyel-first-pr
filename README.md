@@ -39,6 +39,7 @@
 </div>   -->
 
 <div id="Guidelines">
+</br>
   
 ## Contributing Guidelines:
 
@@ -110,6 +111,7 @@ git pull
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <div id="Contributors"></div>
+</br>
 
 ## Thanks to Our valuable Contributors 💜:
 
