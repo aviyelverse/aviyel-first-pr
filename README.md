@@ -111,17 +111,16 @@ git pull
 
 <div id="Contributors"></div>
 
-## Thanks to Our valuable Contributors 👨‍💻 :
-<a href="https://github.com/aviyelverse/aviyel-first-pr"><img src="https://forthebadge.com/images/badges/built-by-developers.svg"  ></a> <a href="https://github.com/aviyelverse/aviyel-first-pr"><img src="https://forthebadge.com/images/badges/built-with-love.svg"  ></a> <a href="https://github.com/aviyelverse/aviyel-first-pr"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" ></a>   
-
-<br>
-
-
-Thanks to all the **people who contribute** 💜
+## Thanks to Our valuable Contributors 💜:
 
 ![Contributors](https://contrib.rocks/image?repo=aviyelverse/aviyel-first-pr)
 
+## Rewards
+ Contributed to aviyelverse? Here is a big thank you from our community to you.
+ Claim your badge and showcase them with pride!
 
+ ![aviyelverse Badges](https://aviyel.com/assets/uploads/rewards/share/project/54/512/share.png)
+ ### **[Claim Now!](https://aviyel.com/projects/54/aviyelverse/rewards)**
 
 <br>
 
