@@ -131,7 +131,8 @@ Thanks to all the **people who contribute** 💜
 
 ## Feedback :
 
-If you have any feedback or suggestions please reach out to Project - Maintainer.  
+If you have any feedback or suggestions please reach out to hello@aviyel.com
+
   
 Or you can create an  <a href="https://github.com/khushi-purwar/aviyel-first-pr/issues">issue</a> where you can mention some new features or extensions that will enhance this project✨.
 
