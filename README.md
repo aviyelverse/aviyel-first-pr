@@ -27,7 +27,6 @@
 * <a href="#Contributors">Our Valuable Contributors</a>       
 * <a href="#Feedback">Feedback</a>   
 
-<p align="right"><a href="#Bottom"><img src="https://img.shields.io/badge/-Bottom-blueviolet?style=for-the-badge" /></a></p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
