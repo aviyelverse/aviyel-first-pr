@@ -1,12 +1,57 @@
-# aviyel-first-pr
+<h1 align="center"> Aviyel First Pr </h1>
 
-This Repository has resources needed for a first time contributor
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
+
+![Contributors](https://img.shields.io/github/contributors/aviyelverse/aviyel-first-pr?style=for-the-badge) ![Forks](https://img.shields.io/github/forks/aviyelverse/aviyel-first-pr?style=for-the-badge) ![Stars](https://img.shields.io/github/stars/aviyelverse/aviyel-first-pr?style=for-the-badge) ![PRs-Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=for-the-badge) ![License](https://img.shields.io/github/license/aviyelverse/aviyel-first-pr?style=for-the-badge) ![](https://img.shields.io/github/issues-raw/aviyelverse/aviyel-first-pr?color=green&style=for-the-badge) ![](https://img.shields.io/github/issues-closed/aviyelverse/aviyel-first-pr?style=for-the-badge) ![](https://img.shields.io/github/issues-pr/aviyelverse/aviyel-first-pr?style=for-the-badge) ![](https://img.shields.io/github/issues-pr-closed-raw/aviyelverse/aviyel-first-pr?style=for-the-badge) ![Repo Size](https://img.shields.io/github/repo-size/aviyelverse/aviyel-first-pr?style=for-the-badge)
+  
+</div>  
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
+  
+  <img src="https://github.com/gurjeetsinghvirdee/aviyel-first-pr/blob/main/aviyel.svg" width="200" height="200">
+  
+</div>  
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!-- TABLE OF CONTENTS --> 
+
+<summary><b> Table of contents :</b></summary>
+ 
+<!-- * <a href="#Overview">Overview</a> -->
+* <a href="#Guidelines">Contribution Guidelines</a> 
+* <a href="#Git">Git Commands</a>
+* <a href="#Contributors">Our Valuable Contributors</a>       
+* <a href="#Feedback">Feedback</a>   
+
+<p align="right"><a href="#Bottom"><img src="https://img.shields.io/badge/-Bottom-blueviolet?style=for-the-badge" /></a></p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<!-- <div id="Overview">
+
+## Overview:
+  
+
+
+</div>   -->
+
+<div id="Guidelines">
+  
+## Contributing Guidelines:
 
 Want to Contribute, Make sure first you read [CONTRIBUTING GUIDELINES](./CONTRIBUTING.md)
 
-Please feel free to add yourself [here](./CONTRIBUTORS.md).
+</div>  
 
-# Git Commands
+Feel free to add yourself [here](./CONTRIBUTORS.md).
+
+<div id="Git">
+
+# Git Commands:
 
 ## Cloning Repository
 
@@ -61,3 +106,51 @@ git push origin branch-name
 ```bash
 git pull
 ```
+</div>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<div id="Contributors"></div>
+
+## Thanks to Our valuable Contributors 👨‍💻 :
+<a href="https://github.com/aviyelverse/aviyel-first-pr"><img src="https://forthebadge.com/images/badges/built-by-developers.svg"  ></a> <a href="https://github.com/aviyelverse/aviyel-first-pr"><img src="https://forthebadge.com/images/badges/built-with-love.svg"  ></a> <a href="https://github.com/aviyelverse/aviyel-first-pr"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" ></a>   
+
+<br>
+
+
+Thanks to all the **people who contribute** 💜
+
+![Contributors](https://contrib.rocks/image?repo=aviyelverse/aviyel-first-pr)
+
+
+
+<br>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<div id="Feedback"></div>
+
+## Feedback :
+
+If you have any feedback or suggestions please reach out to Project - Maintainer.  
+  
+Or you can create an  <a href="https://github.com/khushi-purwar/aviyel-first-pr/issues">issue</a> where you can mention some new features or extensions that will enhance this project✨.
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+<br>
+  
+<br>
+
+<div align="center">
+
+### Show some ❤️ by starring this repository!
+
+
+</div>
+
+<br>
+
+<br>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-blueviolet?style=for-the-badge" /></a></p>
