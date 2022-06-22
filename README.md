@@ -133,7 +133,7 @@ git pull
 If you have any feedback or suggestions please reach out to hello@aviyel.com
 
   
-Or you can create an  <a href="https://github.com/khushi-purwar/aviyel-first-pr/issues">issue</a> where you can mention some new features or extensions that will enhance this project✨.
+Or you can create an  <a href="https://github.com/aviyelverse/aviyel-first-pr/issues">issue</a> where you can mention some new features or extensions that will enhance this project✨.
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
