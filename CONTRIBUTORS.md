@@ -35,9 +35,7 @@
 33. [Ram Kumar](#ram-kumar)
 34. [Franklin Ohaegbulam](#franklin-ohaegbulam)
 35. [Yugal Agarwal](#yugal-agarwal)
-36. [Caleb Okechukwu](#caleb-okechukwu)
-37. [Tejesh Annavarapu](#tejesh-annavarapu)
-
+36. [Tejesh Annavarapu](#tejesh-annavarapu)
 
 
 ## Joshua Poddoku
