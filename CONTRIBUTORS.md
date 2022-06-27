@@ -35,7 +35,7 @@
 33. [Ram Kumar](#ram-kumar)
 34. [Franklin Ohaegbulam](#franklin-ohaegbulam)
 35. [Yugal Agarwal](#yugal-agarwal)
-
+36. [Tejesh Annavarapu](#tejesh-annavarapu)
 
 
 ## Joshua Poddoku
@@ -161,3 +161,7 @@ Hello 👋, I am Yugal an open source enthusiast. Other than that I am Android, 
 
 ##Caleb Okechukwu
 Hi, I am a web developer with current major focus on frontend development, I'm looking forward to starting this exciting journey as an open source contributor with Aviyel. Connect with me on [Twitter](https://www.twitter.com/igkaybangz/) and on [LinkedIn](https://www.linkedin.com/igcaleb/).
+
+## Tejesh Annavarapu
+Hey, I'm learning about opensource and how to contribute to opensource projects!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/tejesh-annavarapu-435520165/)
