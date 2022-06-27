@@ -35,7 +35,8 @@
 33. [Ram Kumar](#ram-kumar)
 34. [Franklin Ohaegbulam](#franklin-ohaegbulam)
 35. [Yugal Agarwal](#yugal-agarwal)
-36. [Tejesh Annavarapu](#tejesh-annavarapu)
+36. [Caleb Okechukwu](#caleb-okechukwu)
+37. [Tejesh Annavarapu](#tejesh-annavarapu)
 
 
 ## Joshua Poddoku
@@ -159,7 +160,7 @@ Hello, I'm a Frontend Engineer, Visual Designer and Developer Advocate passionat
 ## Yugal Agarwal
 Hello 👋, I am Yugal an open source enthusiast. Other than that I am Android, ML and Web enthusiast. I also sometimes make filters for instagram. So, this is going to be my start of journey with **Aviyel** . Very excited to start this wonderful journey. Feel free to connect with me on [Twitter](https://www.linkedin.com/in/adonis1434/) and [LinkedIn](https://www.linkedin.com/in/yugal-agarwal-5433331bb/). Have a nice day 😄.
 
-##Caleb Okechukwu
+## Caleb Okechukwu
 Hi, I am a web developer with current major focus on frontend development, I'm looking forward to starting this exciting journey as an open source contributor with Aviyel. Connect with me on [Twitter](https://www.twitter.com/igkaybangz/) and on [LinkedIn](https://www.linkedin.com/igcaleb/).
 
 ## Tejesh Annavarapu
