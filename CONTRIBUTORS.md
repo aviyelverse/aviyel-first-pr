@@ -37,6 +37,7 @@
 35. [Yugal Agarwal](#yugal-agarwal)
 36. [Caleb Okechukwu](#caleb-okechukwu)
 37. [Tejesh Annavarapu](#tejesh-annavarapu)
+38. [Hadar Hubara](#hadar-hubara)
 
 
 ## Joshua Poddoku
@@ -166,3 +167,6 @@ Hi, I am a web developer with current major focus on frontend development, I'm l
 ## Tejesh Annavarapu
 Hey, I'm learning about opensource and how to contribute to opensource projects!
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tejesh-annavarapu-435520165/)
+
+## Hadar Hubara 
+Hi, I'm Hadar, a web developer and a software developer. I'm looking to contribute to open source projects and learn new skills. Connect with me on [LinkedIn](https://www.linkedin.com/in/hadar-hubara/).
