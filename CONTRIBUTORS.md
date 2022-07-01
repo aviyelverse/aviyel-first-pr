@@ -111,7 +111,7 @@ Hi im a soft dev , learner and explorer.
 Hi there, I'm Danish Saleem. A Software Engineer, and Night Owl!Building Websites, Web apps, proficient in full stack development. Writing articles on sometimes. On a journey to becoming a **_MERN Stack_** and an **_Open Source enthusiast._** Check out my [GitHub](https://github.com/mrdanishsaleem/)
 
 ## Joseph Jose
-Hi, I'm Joseph Jose <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am a Full Stack Developer,FOSS Enthusiast and an Open Source Advocate. I am always open to collaborating and contributing on Open source projects.Connect with me on [Twitter](https://twitter.com/josephjose097)
+Hi, I'm Joseph Jose 👋. I am a Full Stack Developer,FOSS Enthusiast and an Open Source Advocate. I am always open to collaborating and contributing on Open source projects.Connect with me on [Twitter](https://twitter.com/josephjose097)
 
 ## Segun Ajibola
 Hello, I'm a frontend web developer intrested in open source and technical writing. I enjoy sharing my knowledge on [Twitter](https://twitter.com/segunajibola).
