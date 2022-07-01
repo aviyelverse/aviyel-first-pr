@@ -38,7 +38,7 @@
 36. [Caleb Okechukwu](#caleb-okechukwu)
 37. [Tejesh Annavarapu](#tejesh-annavarapu)
 38. [Hadar Hubara](#hadar-hubara)
-
+38. [Alexandros Yiangou](#alexandros-yiangou)
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
@@ -170,3 +170,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tejesh-annavarapu-4355
 
 ## Hadar Hubara 
 Hi, I'm Hadar, a web developer and a software developer. I'm looking to contribute to open source projects and learn new skills. Connect with me on [LinkedIn](https://www.linkedin.com/in/hadar-hubara/).
+
+## Alexandros Yiangou
+Hi, I'm Alex, a full stack developer and flutter enthusiast. I'm looking to contribute to open source projects and learn new skills. Connect with me on [LinkedIn](https://www.linkedin.com/in/alexandros-yiangou-7b69801a7/).
