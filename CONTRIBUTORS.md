@@ -38,7 +38,7 @@
 36. [Caleb Okechukwu](#caleb-okechukwu)
 37. [Tejesh Annavarapu](#tejesh-annavarapu)
 38. [Hadar Hubara](#hadar-hubara)
-38. [Alexandros Yiangou](#alexandros-yiangou)
+39. [Alexandros Yiangou](#alexandros-yiangou)
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
