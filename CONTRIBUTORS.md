@@ -40,6 +40,7 @@
 38. [Hadar Hubara](#hadar-hubara)
 39. [Alexandros Yiangou](#alexandros-yiangou)
 40. [Tarun Singh](#tarun-singh)
+41. [Kayode Oluwasegin](#kayode-oluwasegun)
 
 
 ## Joshua Poddoku
@@ -178,3 +179,6 @@ Hi, I'm Alex, a full stack developer and flutter enthusiast. I'm looking to cont
 
 ## Tarun Singh
 Hi, I'm Tarun, a web developer and a software developer. I'm looking to contribute to open source projects and learn new skills. Connect with me on [Twitter](https://twitter.com/Tarun0206) and [LinkedIn](https://www.linkedin.com/in/tarunsingh0206/).
+
+## Kayode Oluwasegun
+Hi, I am Kayode Oluwasegun and I am a software engineer and I like writing blogs [here](https://blog.zt4ff.dev). Connect with me on [Twitter](https://twitter.com/zt4ff).
