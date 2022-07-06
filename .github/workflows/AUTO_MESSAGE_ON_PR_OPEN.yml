@@ -14,6 +14,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         respondableId: ${{ github.event.pull_request.node_id }}
-        response: "Thanks for your contribution we will soon check your PR @${{ github.event.pull_request.user.login }} :)"
+        response: "Thanks for your contribution, @${{ github.event.pull_request.user.login }}! We will review your PR soon :)"
         author: ${{ github.event.pull_request.user.login }}
-        exemptedAuthors: "Aviyelvesre"
+        exemptedAuthors: "Aviyelverse"
