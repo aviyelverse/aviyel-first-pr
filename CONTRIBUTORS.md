@@ -42,6 +42,8 @@
 40. [Tarun Singh](#tarun-singh)
 41. [Kayode Oluwasegin](#kayode-oluwasegun)
 42. [Daniel Udechukwu](#daniel-udechukwu)
+43. [Sriniketh J](#sriniketh-j)
+
 
 
 ## Joshua Poddoku
@@ -186,3 +188,6 @@ Hi, I am Kayode Oluwasegun and I am a software engineer and I like writing blogs
 
 ## Daniel Udechukwu
 Hello! I'm Daniel Udechukwu, Student and front-end web developer. I'm looking to contribute to open source projects, to get more knowledge and advance my skills. Reach out to me via [Twitter](https://twitter.com/ChumaUdechukwu). 
+
+## Sriniketh J
+Hey Folks! This is Sriniketh J, a ML, DS, Web Dev, OS Enthusiast. Looking forward to contribute more to Aviyel. You can connect with me on [Twitter](https://twitter.com/srini047) and on [LinkedIn](https://www.linkedin.com/in/sriniketh-jayasendil/).
