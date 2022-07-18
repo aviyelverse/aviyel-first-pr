@@ -43,7 +43,7 @@
 41. [Kayode Oluwasegin](#kayode-oluwasegun)
 42. [Daniel Udechukwu](#daniel-udechukwu)
 43. [Sriniketh J](#sriniketh-j)
-
+44. [Dheeraj Ghosh](#dheeraj-ghosh)
 
 
 ## Joshua Poddoku
@@ -191,3 +191,6 @@ Hello! I'm Daniel Udechukwu, Student and front-end web developer. I'm looking to
 
 ## Sriniketh J
 Hey Folks! This is Sriniketh J, a ML, DS, Web Dev, OS Enthusiast. Looking forward to contribute more to Aviyel. You can connect with me on [Twitter](https://twitter.com/srini047) and on [LinkedIn](https://www.linkedin.com/in/sriniketh-jayasendil/).
+
+## Dheeraj Ghosh
+Hi! I am Dheeraj a Community person and a Web Development Enthusiast. Connect with me via [Twitter](https://twitter.com/dheeraj_7_) or [LinkedIn](https://www.linkedin.com/in/dheerajghosh007/).
