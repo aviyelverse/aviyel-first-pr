@@ -44,6 +44,7 @@
 42. [Daniel Udechukwu](#daniel-udechukwu)
 43. [Sriniketh J](#sriniketh-j)
 44. [Dheeraj Ghosh](#dheeraj-ghosh)
+45. [Ijeoma Onwuka](#ijeoma-onwuka)
 
 
 ## Joshua Poddoku
@@ -194,3 +195,6 @@ Hey Folks! This is Sriniketh J, a ML, DS, Web Dev, OS Enthusiast. Looking forwar
 
 ## Dheeraj Ghosh
 Hi! I am Dheeraj a Community person and a Web Development Enthusiast. Connect with me via [Twitter](https://twitter.com/dheeraj_7_) or [LinkedIn](https://www.linkedin.com/in/dheerajghosh007/).
+
+## Ijeoma Onwuka
+Hey Folks! This is Ijeoma, an open source Community Manager and a Blockchain Enthusiast. I look forward to building more healthy and sustainable Open source communities. Connect with me via [Twitter](https://twitter.com/BelindaIjeoma) or [LinkedIn](https://www.linkedin.com/in/onwuka-ijeoma/).
