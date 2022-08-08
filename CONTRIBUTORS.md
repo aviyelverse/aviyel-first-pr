@@ -45,6 +45,7 @@
 43. [Sriniketh J](#sriniketh-j)
 44. [Dheeraj Ghosh](#dheeraj-ghosh)
 45. [Ijeoma Onwuka](#ijeoma-onwuka)
+46. [Jerry Zhu](#jerry-zhu)
 
 
 ## Joshua Poddoku
@@ -198,3 +199,7 @@ Hi! I am Dheeraj a Community person and a Web Development Enthusiast. Connect wi
 
 ## Ijeoma Onwuka
 Hey Folks! This is Ijeoma, an open source Community Manager and a Blockchain Enthusiast. I look forward to building more healthy and sustainable Open source communities. Connect with me via [Twitter](https://twitter.com/BelindaIjeoma) or [LinkedIn](https://www.linkedin.com/in/onwuka-ijeoma/).
+
+## Jerry Zhu
+
+Hi! I'm Jerry Zhu, a software developer and open source contributor. Connect with me on [Linkedin](https://www.linkedin.com/in/jerryzhu2/).
