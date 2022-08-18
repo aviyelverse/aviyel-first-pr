@@ -46,6 +46,7 @@
 44. [Dheeraj Ghosh](#dheeraj-ghosh)
 45. [Ijeoma Onwuka](#ijeoma-onwuka)
 46. [Jerry Zhu](#jerry-zhu)
+47. [Olumide Nwosu](#olumide-nwosu)
 
 
 ## Joshua Poddoku
@@ -202,3 +203,6 @@ Hey Folks! This is Ijeoma, an open source Community Manager and a Blockchain Ent
 
 ## Jerry Zhu
 Hi! I'm Jerry Zhu, a software developer and open source contributor. Connect with me on [Linkedin](https://www.linkedin.com/in/jerryzhu2/).
+
+## Olumide Nwosu
+Hello there! I'm Olumide Nwosu, a software developer and open source enthusiast. Checkout my [Github](https://github.com/olumidayy) or connect with me on [Linkedin](https://www.linkedin.com/in/olumidenwosu/).
