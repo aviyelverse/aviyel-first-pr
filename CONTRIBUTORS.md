@@ -47,6 +47,7 @@
 45. [Ijeoma Onwuka](#ijeoma-onwuka)
 46. [Jerry Zhu](#jerry-zhu)
 47. [Olumide Nwosu](#olumide-nwosu)
+48. [Aryan Shaw](#aryan-shaw)
 
 
 ## Joshua Poddoku
@@ -206,3 +207,7 @@ Hi! I'm Jerry Zhu, a software developer and open source contributor. Connect wit
 
 ## Olumide Nwosu
 Hello there! I'm Olumide Nwosu, a software developer and open source enthusiast. Checkout my [Github](https://github.com/olumidayy) or connect with me on [Linkedin](https://www.linkedin.com/in/olumidenwosu/).
+
+## Aryan Shaw
+Hello Everyone! This is Aryan, a full stack dev and open source contributor, love building softwares
+to solve real life problems. Connect with me on [Linkedin](https://www.linkedin.com/in/aryans1319/)
