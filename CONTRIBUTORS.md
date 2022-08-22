@@ -48,7 +48,7 @@
 46. [Jerry Zhu](#jerry-zhu)
 47. [Olumide Nwosu](#olumide-nwosu)
 48. [Aryan Shaw](#aryan-shaw)
-
+49. [Jamilu Jibrilla](#jamilu-jibrilla)
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
@@ -211,3 +211,6 @@ Hello there! I'm Olumide Nwosu, a software developer and open source enthusiast.
 ## Aryan Shaw
 Hello Everyone! This is Aryan, a full stack dev and open source contributor, love building softwares
 to solve real life problems. Connect with me on [Linkedin](https://www.linkedin.com/in/aryans1319/)
+
+## Jamilu Jibrilla
+Hello everone! my name is Jamil, a frontend developer and open source contributor. I look forward to working and learning from you all. Connect with me on [Linkedin](https://www.linkedin.com/in/jamilu-jibrilla-575441211/), [Github](https://github.com/jamilu-jibrilla) or [Twitter](https://twitter.com/Jb_jameel)
