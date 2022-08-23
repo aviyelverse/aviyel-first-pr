@@ -48,6 +48,7 @@
 46. [Jerry Zhu](#jerry-zhu)
 47. [Olumide Nwosu](#olumide-nwosu)
 48. [Aryan Shaw](#aryan-shaw)
+49. [Abhilipsa Sahoo](#abhilipsa-sahoo)
 
 
 ## Joshua Poddoku
@@ -211,3 +212,6 @@ Hello there! I'm Olumide Nwosu, a software developer and open source enthusiast.
 ## Aryan Shaw
 Hello Everyone! This is Aryan, a full stack dev and open source contributor, love building softwares
 to solve real life problems. Connect with me on [Linkedin](https://www.linkedin.com/in/aryans1319/)
+
+## Abhilipsa Sahoo
+Hi everyone! I'm Abhilipsa Sahoo, an aspiring frontend web developer with an inquisitive mind. I'm an open source enthusiast and have keen interest in emerging technologies. I occasionally write blogs [here](https://abelisaurus.hashnode.dev/). I'm also interested in everything poetry and pop culture. Looking forward to contribute more to Aviyel. Checkout my [GitHub](https://github.com/abhilipsasahoo03) and connect with me via [Twitter](https://twitter.com/_abelisaurus_) and [LinkedIn](https://www.linkedin.com/in/abhilipsa-sahoo-927542b1).
