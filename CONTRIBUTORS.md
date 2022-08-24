@@ -50,6 +50,7 @@
 48. [Aryan Shaw](#aryan-shaw)
 49. [Abhilipsa Sahoo](#abhilipsa-sahoo)
 50. [Jamilu Jibrilla](#jamilu-jibrilla)
+51. [Awosise Oluwaseun](#awosise-oluwaseun)
 
 
 ## Joshua Poddoku
@@ -220,3 +221,5 @@ Hi everyone! I'm Abhilipsa Sahoo, an aspiring frontend web developer with an inq
 ## Jamilu Jibrilla
 Hello everone! my name is Jamil, a frontend developer and open source contributor. I look forward to working and learning from you all. Connect with me on [Linkedin](https://www.linkedin.com/in/jamilu-jibrilla-575441211/), [Github](https://github.com/jamilu-jibrilla) or [Twitter](https://twitter.com/Jb_jameel)
 
+## Awosise Oluwaseun
+Hello everyone! my name is Oluwaseun, an aspiring fullstack developer (self-learning frontend and learning backend @AltSchool Africa) and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](https://www.linkedin.com/in/oluwaseun-awosise), [Github](https://github.com/jhhornn) or [Twitter](https://twitter.com/jhhornn). Also check out my [blog](https://dev.to/jhhornn) which I recently started posting on.
