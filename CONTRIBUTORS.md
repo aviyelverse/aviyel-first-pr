@@ -50,6 +50,7 @@
 48. [Aryan Shaw](#aryan-shaw)
 49. [Abhilipsa Sahoo](#abhilipsa-sahoo)
 50. [Jamilu Jibrilla](#jamilu-jibrilla)
+51. [Awosise Oluwaseun](#awosise-oluwaseun)
 
 
 ## Joshua Poddoku
