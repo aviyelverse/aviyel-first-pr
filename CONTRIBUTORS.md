@@ -51,6 +51,7 @@
 49. [Abhilipsa Sahoo](#abhilipsa-sahoo)
 50. [Jamilu Jibrilla](#jamilu-jibrilla)
 51. [Awosise Oluwaseun](#awosise-oluwaseun)
+52. [Issac Jacob](#issac-jacob)
 
 
 ## Joshua Poddoku
@@ -223,3 +224,7 @@ Hello everone! my name is Jamil, a frontend developer and open source contributo
 
 ## Awosise Oluwaseun
 Hello everyone! my name is Oluwaseun, an aspiring fullstack developer (self-learning frontend and learning backend @AltSchool Africa) and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](https://www.linkedin.com/in/oluwaseun-awosise), [Github](https://github.com/jhhornn) or [Twitter](https://twitter.com/jhhornn). Also check out my [blog](https://dev.to/jhhornn) which I recently started posting on.
+
+## Issac Jacob
+Hey, I'm helping opensource projects to scale and grow.
+Connect with me on [Twitter](https://twitter.com/IssacJacob10)
