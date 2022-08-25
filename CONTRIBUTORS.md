@@ -52,6 +52,7 @@
 50. [Jamilu Jibrilla](#jamilu-jibrilla)
 51. [Awosise Oluwaseun](#awosise-oluwaseun)
 52. [Issac Jacob](#issac-jacob)
+53. Adeola Adetunji
 
 
 ## Joshua Poddoku
