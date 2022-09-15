@@ -234,4 +234,5 @@ Connect with me on [Twitter](https://twitter.com/IssacJacob10)
 Hello everyone! my name is Adeola, a frontend developer (self-learning frontend @AltSchool Africa) and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](www.linkedin.com/in/adeolaadetunji), [Github](https://github.com/TheDeola) or [Twitter](https://twitter.com/deolacodes). Also check out my [Medium](https://medium.com/@aadetunji012).
 
 ## Ndi Lionel
-Hello there my name is Lionel, an open-source enthusiast. I love to network and make contributions to open source projects.
+Hello there my name is Lionel, an open-source enthusiast. I love to network and make contributions to open source projects. Connect with me on [Linkedin](www.linkedin.com/in/ndilionel6), [Github](https://github.com/spykelionel) or [Twitter](https://twitter.com/spykelionel). Also check out my [Hashnode.dev](https://onecode.hashnode.dev/).
+
