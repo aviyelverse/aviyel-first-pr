@@ -233,3 +233,6 @@ Connect with me on [Twitter](https://twitter.com/IssacJacob10)
 ## Adeola Adetunji
 Hello everyone! my name is Adeola, a frontend developer (self-learning frontend @AltSchool Africa) and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](www.linkedin.com/in/adeolaadetunji), [Github](https://github.com/TheDeola) or [Twitter](https://twitter.com/deolacodes). Also check out my [Medium](https://medium.com/@aadetunji012).
 
+## Esther Christopher
+Hello everyone! My name is Esther, a technical writer who is currently journeying into frontend development. I'm open to making pen source contributions through documentation and writing and in no distant time through code.
+You can connect with me on [Linkedin] (https://www.linkedin.com/in/esther-christopher-a0909419b), [Hashnode] (estherchris.hashnode.dev), or [Twitter] (https://twitter.com/EstherNChris). You can also find me on [Github] (https://github.com/EstherChristopher)
