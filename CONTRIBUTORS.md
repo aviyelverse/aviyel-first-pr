@@ -53,7 +53,7 @@
 51. [Awosise Oluwaseun](#awosise-oluwaseun)
 52. [Issac Jacob](#issac-jacob)
 53. [Adeola Adetunji](#adeola-adetunji)
-
+54. [Yash Soman](#yash-soman)
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
@@ -233,3 +233,7 @@ Connect with me on [Twitter](https://twitter.com/IssacJacob10)
 ## Adeola Adetunji
 Hello everyone! my name is Adeola, a frontend developer (self-learning frontend @AltSchool Africa) and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](www.linkedin.com/in/adeolaadetunji), [Github](https://github.com/TheDeola) or [Twitter](https://twitter.com/deolacodes). Also check out my [Medium](https://medium.com/@aadetunji012).
 
+## Yash Soman
+Hi everyone! Love from Mumbai, Maharashtra, India. This is Yash Nilesh Soman, a 3rd - year UG student of B. E. Electronics and Communications at Birla Institute of Technology and Science Pilani - KK Birla Goa campus.
+LinkedIn: www.linkedin.com/in/yash-nilesh-soman-a7159521a
+GitHub: https://github.com/TheYash27
