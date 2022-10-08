@@ -53,6 +53,7 @@
 51. [Awosise Oluwaseun](#awosise-oluwaseun)
 52. [Issac Jacob](#issac-jacob)
 53. [Adeola Adetunji](#adeola-adetunji)
+54. [Nikhil Mahana](#nikhil-mahana)
 
 
 ## Joshua Poddoku
@@ -233,3 +234,5 @@ Connect with me on [Twitter](https://twitter.com/IssacJacob10)
 ## Adeola Adetunji
 Hello everyone! my name is Adeola, a frontend developer (self-learning frontend @AltSchool Africa) and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](www.linkedin.com/in/adeolaadetunji), [Github](https://github.com/TheDeola) or [Twitter](https://twitter.com/deolacodes). Also check out my [Medium](https://medium.com/@aadetunji012).
 
+## Nikhil Mahana
+Hey everyone! This is Nikhil Mahana, a Beta Microsoft Learn Student Ambassador.
