@@ -35,25 +35,26 @@
 33. [Ram Kumar](#ram-kumar)
 34. [Franklin Ohaegbulam](#franklin-ohaegbulam)
 35. [Yugal Agarwal](#yugal-agarwal)
-36. [Caleb Okechukwu](#caleb-okechukwu)
-37. [Tejesh Annavarapu](#tejesh-annavarapu)
-38. [Hadar Hubara](#hadar-hubara)
-39. [Alexandros Yiangou](#alexandros-yiangou)
-40. [Tarun Singh](#tarun-singh)
-41. [Kayode Oluwasegin](#kayode-oluwasegun)
-42. [Daniel Udechukwu](#daniel-udechukwu)
-43. [Sriniketh J](#sriniketh-j)
-44. [Dheeraj Ghosh](#dheeraj-ghosh)
-45. [Ijeoma Onwuka](#ijeoma-onwuka)
-46. [Jerry Zhu](#jerry-zhu)
-47. [Olumide Nwosu](#olumide-nwosu)
-48. [Aryan Shaw](#aryan-shaw)
-49. [Abhilipsa Sahoo](#abhilipsa-sahoo)
-50. [Jamilu Jibrilla](#jamilu-jibrilla)
-51. [Awosise Oluwaseun](#awosise-oluwaseun)
-52. [Issac Jacob](#issac-jacob)
-53. [Adeola Adetunji](#adeola-adetunji)
-54. [Akshat Tiwari](#akshat-tiwari)
+36. [Hardik Jain](#hardik-jain)
+37. [Caleb Okechukwu](#caleb-okechukwu)
+38. [Tejesh Annavarapu](#tejesh-annavarapu)
+39. [Hadar Hubara](#hadar-hubara)
+40. [Alexandros Yiangou](#alexandros-yiangou)
+41. [Tarun Singh](#tarun-singh)
+42. [Kayode Oluwasegin](#kayode-oluwasegun)
+43. [Daniel Udechukwu](#daniel-udechukwu)
+44. [Sriniketh J](#sriniketh-j)
+45. [Dheeraj Ghosh](#dheeraj-ghosh)
+46. [Ijeoma Onwuka](#ijeoma-onwuka)
+47. [Jerry Zhu](#jerry-zhu)
+48. [Olumide Nwosu](#olumide-nwosu)
+49. [Aryan Shaw](#aryan-shaw)
+50. [Abhilipsa Sahoo](#abhilipsa-sahoo)
+51. [Jamilu Jibrilla](#jamilu-jibrilla)
+52. [Awosise Oluwaseun](#awosise-oluwaseun)
+53. [Issac Jacob](#issac-jacob)
+54. [Adeola Adetunji](#adeola-adetunji)
+55. [Akshat Tiwari](#akshat-tiwari)
 
 
 ## Joshua Poddoku
@@ -176,6 +177,9 @@ Hello, I'm a Frontend Engineer, Visual Designer and Developer Advocate passionat
 
 ## Yugal Agarwal
 Hello 👋, I am Yugal an open source enthusiast. Other than that I am Android, ML and Web enthusiast. I also sometimes make filters for instagram. So, this is going to be my start of journey with **Aviyel** . Very excited to start this wonderful journey. Feel free to connect with me on [Twitter](https://www.linkedin.com/in/adonis1434/) and [LinkedIn](https://www.linkedin.com/in/yugal-agarwal-5433331bb/). Have a nice day 😄.
+
+## Hardik Jain
+Hello, I am Hardik a content writer, frontend developer, freelancer. Currently learning MERN stack and willing to boost up in open source community. Here to contribute and learn from the community. This is my [LinkedIn](https://www.linkedin.com/in/hardikjain0101/) account to connect with me.
 
 ## Caleb Okechukwu
 Hi, I am a web developer with current major focus on frontend development, I'm looking forward to starting this exciting journey as an open source contributor with Aviyel. Connect with me on [Twitter](https://www.twitter.com/igkaybangz/) and on [LinkedIn](https://www.linkedin.com/igcaleb/).
