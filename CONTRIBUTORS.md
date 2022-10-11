@@ -237,3 +237,5 @@ Connect with me on [Twitter](https://twitter.com/IssacJacob10)
 ## Adeola Adetunji
 Hello everyone! my name is Adeola, a frontend developer (self-learning frontend @AltSchool Africa) and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](www.linkedin.com/in/adeolaadetunji), [Github](https://github.com/TheDeola) or [Twitter](https://twitter.com/deolacodes). Also check out my [Medium](https://medium.com/@aadetunji012).
 
+## Ezinne Anne Emilia
+Hello everyone! my name is Ezinne, a technical writer and novel open source contributor. I am here to learn and build my tech career. You can connect with me on [Twitter](https://www.twitter.com/ezinne_anne) and [Linkedin](https://www.linkedin.com/in/ezinneanneemilia)
