@@ -54,8 +54,9 @@
 52. [Awosise Oluwaseun](#awosise-oluwaseun)
 53. [Issac Jacob](#issac-jacob)
 54. [Adeola Adetunji](#adeola-adetunji)
-55. [Mubashir Ahmed](#Mubashir-Md)
-
+55. [Ezinne Anne Emilia](#ezinne-anne-emilia)
+56. [Akshat Tiwari](#akshat-tiwari)
+57. [Mubashir Ahmed](#Mubashir-Md)
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
@@ -237,6 +238,13 @@ Connect with me on [Twitter](https://twitter.com/IssacJacob10)
 
 ## Adeola Adetunji
 Hello everyone! my name is Adeola, a frontend developer (self-learning frontend @AltSchool Africa) and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](www.linkedin.com/in/adeolaadetunji), [Github](https://github.com/TheDeola) or [Twitter](https://twitter.com/deolacodes). Also check out my [Medium](https://medium.com/@aadetunji012).
+
+## Ezinne Anne Emilia
+Hello everyone! my name is Ezinne, a technical writer and novel open source contributor. I am here to learn and build my tech career. You can connect with me on [Twitter](https://www.twitter.com/ezinne_anne) and [Linkedin](https://www.linkedin.com/in/ezinneanneemilia)
+
+## Akshat Tiwari
+Hi, I'm learning about opensource and how to contribute to opensource projects!
+Connect with me on [Linkedin](https://www.linkedin.com/in/akshat-tiwari-18a5a2192/)
 
 ## Mubashir Ahmed
 Hey everyone, this is Mubashir. A front end web developer learning JS and React. 
