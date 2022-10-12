@@ -54,6 +54,7 @@
 52. [Awosise Oluwaseun](#awosise-oluwaseun)
 53. [Issac Jacob](#issac-jacob)
 54. [Adeola Adetunji](#adeola-adetunji)
+55. [Ezinne Anne Emilia](#ezinne-anne-emilia)
 
 
 ## Joshua Poddoku
