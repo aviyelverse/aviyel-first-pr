@@ -55,7 +55,7 @@
 53. [Issac Jacob](#issac-jacob)
 54. [Adeola Adetunji](#adeola-adetunji)
 55. [Ezinne Anne Emilia](#ezinne-anne-emilia)
-
+56. [Akshat Tiwari](#akshat-tiwari)
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
@@ -240,3 +240,7 @@ Hello everyone! my name is Adeola, a frontend developer (self-learning frontend 
 
 ## Ezinne Anne Emilia
 Hello everyone! my name is Ezinne, a technical writer and novel open source contributor. I am here to learn and build my tech career. You can connect with me on [Twitter](https://www.twitter.com/ezinne_anne) and [Linkedin](https://www.linkedin.com/in/ezinneanneemilia)
+
+## Akshat Tiwari
+Hi, I'm learning about opensource and how to contribute to opensource projects!
+Connect with me on [Linkedin](https://www.linkedin.com/in/akshat-tiwari-18a5a2192/)
