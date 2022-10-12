@@ -56,6 +56,7 @@
 54. [Adeola Adetunji](#adeola-adetunji)
 55. [Ezinne Anne Emilia](#ezinne-anne-emilia)
 56. [Akshat Tiwari](#akshat-tiwari)
+57. [Mubashir Ahmed](#Mubashir-Md)
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
@@ -244,3 +245,7 @@ Hello everyone! my name is Ezinne, a technical writer and novel open source cont
 ## Akshat Tiwari
 Hi, I'm learning about opensource and how to contribute to opensource projects!
 Connect with me on [Linkedin](https://www.linkedin.com/in/akshat-tiwari-18a5a2192/)
+
+## Mubashir Ahmed
+Hey everyone, this is Mubashir. A front end web developer learning JS and React. 
+Let's connect on [Twitter](https://twitter.com/Mubashir_061)
