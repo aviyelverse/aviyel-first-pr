@@ -59,6 +59,7 @@
 57. [Mubashir Ahmed](#Mubashir-Md)
 58. [Yash Soman](#yash-soman)
 59. [Nikhil Mahana](#nikhil-mahana)
+60. [Esther Christopher](#esther-christopher)
 
 
 ## Joshua Poddoku
@@ -258,3 +259,6 @@ Hi everyone! Love from Mumbai, Maharashtra, India. This is Yash Nilesh Soman, a 
 
 ## Nikhil Mahana
 Hey everyone! This is Nikhil Mahana, a Beta Microsoft Learn Student Ambassador.
+
+## Esther Christopher
+Hello everyone! My name is Esther, a technical writer who is currently journeying into frontend development. I'm open to making pen source contributions through documentation and writing and in no distant time through code. You can connect with me on [Linkedin](https://www.linkedin.com/in/esther-christopher-a0909419b), [Hashnode](estherchris.hashnode.dev), or [Twitter](https://twitter.com/EstherNChris). You can also find me on [Github](https://github.com/EstherChristopher)
