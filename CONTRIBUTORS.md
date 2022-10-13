@@ -35,25 +35,29 @@
 33. [Ram Kumar](#ram-kumar)
 34. [Franklin Ohaegbulam](#franklin-ohaegbulam)
 35. [Yugal Agarwal](#yugal-agarwal)
-36. [Caleb Okechukwu](#caleb-okechukwu)
-37. [Tejesh Annavarapu](#tejesh-annavarapu)
-38. [Hadar Hubara](#hadar-hubara)
-39. [Alexandros Yiangou](#alexandros-yiangou)
-40. [Tarun Singh](#tarun-singh)
-41. [Kayode Oluwasegin](#kayode-oluwasegun)
-42. [Daniel Udechukwu](#daniel-udechukwu)
-43. [Sriniketh J](#sriniketh-j)
-44. [Dheeraj Ghosh](#dheeraj-ghosh)
-45. [Ijeoma Onwuka](#ijeoma-onwuka)
-46. [Jerry Zhu](#jerry-zhu)
-47. [Olumide Nwosu](#olumide-nwosu)
-48. [Aryan Shaw](#aryan-shaw)
-49. [Abhilipsa Sahoo](#abhilipsa-sahoo)
-50. [Jamilu Jibrilla](#jamilu-jibrilla)
-51. [Awosise Oluwaseun](#awosise-oluwaseun)
-52. [Issac Jacob](#issac-jacob)
-53. [Adeola Adetunji](#adeola-adetunji)
-54. [Yash Soman](#yash-soman)
+36. [Hardik Jain](#hardik-jain)
+37. [Caleb Okechukwu](#caleb-okechukwu)
+38. [Tejesh Annavarapu](#tejesh-annavarapu)
+39. [Hadar Hubara](#hadar-hubara)
+40. [Alexandros Yiangou](#alexandros-yiangou)
+41. [Tarun Singh](#tarun-singh)
+42. [Kayode Oluwasegin](#kayode-oluwasegun)
+43. [Daniel Udechukwu](#daniel-udechukwu)
+44. [Sriniketh J](#sriniketh-j)
+45. [Dheeraj Ghosh](#dheeraj-ghosh)
+46. [Ijeoma Onwuka](#ijeoma-onwuka)
+47. [Jerry Zhu](#jerry-zhu)
+48. [Olumide Nwosu](#olumide-nwosu)
+49. [Aryan Shaw](#aryan-shaw)
+50. [Abhilipsa Sahoo](#abhilipsa-sahoo)
+51. [Jamilu Jibrilla](#jamilu-jibrilla)
+52. [Awosise Oluwaseun](#awosise-oluwaseun)
+53. [Issac Jacob](#issac-jacob)
+54. [Adeola Adetunji](#adeola-adetunji)
+55. [Ezinne Anne Emilia](#ezinne-anne-emilia)
+56. [Akshat Tiwari](#akshat-tiwari)
+57. [Mubashir Ahmed](#Mubashir-Md)
+58. [Yash Soman](#yash-soman)
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
@@ -176,6 +180,9 @@ Hello, I'm a Frontend Engineer, Visual Designer and Developer Advocate passionat
 ## Yugal Agarwal
 Hello 👋, I am Yugal an open source enthusiast. Other than that I am Android, ML and Web enthusiast. I also sometimes make filters for instagram. So, this is going to be my start of journey with **Aviyel** . Very excited to start this wonderful journey. Feel free to connect with me on [Twitter](https://www.linkedin.com/in/adonis1434/) and [LinkedIn](https://www.linkedin.com/in/yugal-agarwal-5433331bb/). Have a nice day 😄.
 
+## Hardik Jain
+Hello, I am Hardik a content writer, frontend developer, freelancer. Currently learning MERN stack and willing to boost up in open source community. Here to contribute and learn from the community. This is my [LinkedIn](https://www.linkedin.com/in/hardikjain0101/) account to connect with me.
+
 ## Caleb Okechukwu
 Hi, I am a web developer with current major focus on frontend development, I'm looking forward to starting this exciting journey as an open source contributor with Aviyel. Connect with me on [Twitter](https://www.twitter.com/igkaybangz/) and on [LinkedIn](https://www.linkedin.com/igcaleb/).
 
@@ -233,7 +240,16 @@ Connect with me on [Twitter](https://twitter.com/IssacJacob10)
 ## Adeola Adetunji
 Hello everyone! my name is Adeola, a frontend developer (self-learning frontend @AltSchool Africa) and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](www.linkedin.com/in/adeolaadetunji), [Github](https://github.com/TheDeola) or [Twitter](https://twitter.com/deolacodes). Also check out my [Medium](https://medium.com/@aadetunji012).
 
+## Ezinne Anne Emilia
+Hello everyone! my name is Ezinne, a technical writer and novel open source contributor. I am here to learn and build my tech career. You can connect with me on [Twitter](https://www.twitter.com/ezinne_anne) and [Linkedin](https://www.linkedin.com/in/ezinneanneemilia)
+
+## Akshat Tiwari
+Hi, I'm learning about opensource and how to contribute to opensource projects!
+Connect with me on [Linkedin](https://www.linkedin.com/in/akshat-tiwari-18a5a2192/)
+
+## Mubashir Ahmed
+Hey everyone, this is Mubashir. A front end web developer learning JS and React. 
+Let's connect on [Twitter](https://twitter.com/Mubashir_061)
+
 ## Yash Soman
-Hi everyone! Love from Mumbai, Maharashtra, India. This is Yash Nilesh Soman, a 3rd - year UG student of B. E. Electronics and Communications at Birla Institute of Technology and Science Pilani - KK Birla Goa campus.
-LinkedIn: www.linkedin.com/in/yash-nilesh-soman-a7159521a
-GitHub: https://github.com/TheYash27
+Hi everyone! Love from Mumbai, Maharashtra, India. This is Yash Nilesh Soman, a 3rd - year UG student of B. E. Electronics and Communications at Birla Institute of Technology and Science Pilani - KK Birla Goa campus. Follow me on [LinkedIn](www.linkedin.com/in/yash-nilesh-soman-a7159521a) or [GitHub](https://github.com/TheYash27)
