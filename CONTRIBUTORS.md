@@ -58,6 +58,8 @@
 56. [Akshat Tiwari](#akshat-tiwari)
 57. [Mubashir Ahmed](#Mubashir-Md)
 58. [Yash Soman](#yash-soman)
+59. [Nikhil Mahana](#nikhil-mahana)
+
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
@@ -253,3 +255,6 @@ Let's connect on [Twitter](https://twitter.com/Mubashir_061)
 
 ## Yash Soman
 Hi everyone! Love from Mumbai, Maharashtra, India. This is Yash Nilesh Soman, a 3rd - year UG student of B. E. Electronics and Communications at Birla Institute of Technology and Science Pilani - KK Birla Goa campus. Follow me on [LinkedIn](www.linkedin.com/in/yash-nilesh-soman-a7159521a) or [GitHub](https://github.com/TheYash27)
+
+## Nikhil Mahana
+Hey everyone! This is Nikhil Mahana, a Beta Microsoft Learn Student Ambassador.
