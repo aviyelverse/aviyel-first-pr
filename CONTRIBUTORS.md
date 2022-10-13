@@ -60,6 +60,7 @@
 58. [Yash Soman](#yash-soman)
 59. [Nikhil Mahana](#nikhil-mahana)
 60. [Esther Christopher](#esther-christopher)
+61. [Priyanshu Mundra](#priyanshu-mundra)
 
 
 ## Joshua Poddoku
@@ -262,3 +263,8 @@ Hey everyone! This is Nikhil Mahana, a Beta Microsoft Learn Student Ambassador.
 
 ## Esther Christopher
 Hello everyone! My name is Esther, a technical writer who is currently journeying into frontend development. I'm open to making pen source contributions through documentation and writing and in no distant time through code. You can connect with me on [Linkedin](https://www.linkedin.com/in/esther-christopher-a0909419b), [Hashnode](estherchris.hashnode.dev), or [Twitter](https://twitter.com/EstherNChris). You can also find me on [Github](https://github.com/EstherChristopher)
+
+
+
+## Priyanshu Mundra
+Hello everyone! my name is Priyanshu Mundra, an fullstack developer ,Data scienticts and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](https://www.linkedin.com/in/priyanshu-mundra-b66626216/), [Github](https://github.com/Spyder15) or [Twitter](https://twitter.com/Mundr1Priyanshu). Also check out my [blog](https://dev.to/spyder15)...!
