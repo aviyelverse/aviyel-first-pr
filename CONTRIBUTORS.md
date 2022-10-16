@@ -61,6 +61,7 @@
 59. [Nikhil Mahana](#nikhil-mahana)
 60. [Esther Christopher](#esther-christopher)
 61. [Priyanshu Mundra](#priyanshu-mundra)
+62. [Gayatri Dunakhe](#gayatri-dunakhe)
 
 
 ## Joshua Poddoku
@@ -268,3 +269,7 @@ Hello everyone! My name is Esther, a technical writer who is currently journeyin
 
 ## Priyanshu Mundra
 Hello everyone! my name is Priyanshu Mundra, an fullstack developer ,Data scienticts and an open source contributor. I look forward to working with and learning from everyone here. Connect with me on [Linkedin](https://www.linkedin.com/in/priyanshu-mundra-b66626216/), [Github](https://github.com/Spyder15) or [Twitter](https://twitter.com/Mundr1Priyanshu). Also check out my [blog](https://dev.to/spyder15)...!
+
+
+## Gayatri Dunakhe
+Hello Everyon! My name is Gayatri Dunakhe, a Graphic + UX/UI Designer, Web Designer, Frontend Developer. Currenlty I learning React and UX Designing and join here to contribute and learn form all talented floks. You can connect with me on [Twitter](https://twitter.com/DunakheGayatri), or [Linkedin](https://www.linkedin.com/in/gayatri-dunakhe-6211a7191/).
