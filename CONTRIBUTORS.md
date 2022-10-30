@@ -62,7 +62,7 @@
 60. [Esther Christopher](#esther-christopher)
 61. [Priyanshu Mundra](#priyanshu-mundra)
 62. [Gayatri Dunakhe](#gayatri-dunakhe)
-
+63. [Sagnik Sahoo](#sagnik-sahoo)
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
@@ -273,3 +273,7 @@ Hello everyone! my name is Priyanshu Mundra, an fullstack developer ,Data scient
 
 ## Gayatri Dunakhe
 Hello Everyon! My name is Gayatri Dunakhe, a Graphic + UX/UI Designer, Web Designer, Frontend Developer. Currenlty I learning React and UX Designing and join here to contribute and learn form all talented floks. You can connect with me on [Twitter](https://twitter.com/DunakheGayatri), or [Linkedin](https://www.linkedin.com/in/gayatri-dunakhe-6211a7191/).
+
+## Sagnik Sahoo
+Hey 👋, This is Sagnik . I am 17 years old student,developer and a designer from India. Let's connect with [me](https://heysagnik.vercel.app/)
+
