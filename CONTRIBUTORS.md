@@ -64,7 +64,7 @@
 62. [Gayatri Dunakhe](#gayatri-dunakhe)
 63. [Igboagu Ijeoma](#igboagu-ijeoma)
 64. [Sagnik Sahoo](#sagnik-sahoo)
-
+65. [Krishi Agrawal](#krishi-agrawal)
 
 ## Joshua Poddoku
 Hey, I'm helping opensource projects to sustain and grow.
@@ -283,3 +283,6 @@ Hi all! I'm Ijeoma, a frontend developer and technical writer. I'm really focuse
 
 ## Sagnik Sahoo
 Hey 👋, This is Sagnik . I am 17 years old student,developer and a designer from India. Let's connect with [me](https://heysagnik.vercel.app/)
+
+## Krishi Agrawal
+Hello Everyone! My name is Krishi Agrawal and I am a Full Stack Web Developer. Connect with me on [LinkedIn](https://www.linkedin.com/in/krishiagrawal/) and [Github](https://github.com/krishi-agrawal)
